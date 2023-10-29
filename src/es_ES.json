@@ -3,6 +3,7 @@
             "Josscoder"
       ],
       "translations": {
-            "welcome": "&a¡Bienvenido a &3NextCraft&a!\n&9Discord: &rdiscord.gg/nextcraft\n&6Store: &rstore.nextcraft.net\n&bTwitter/X: &r@NextCraftGames"
+            "welcome": "&a¡Bienvenido a &3NextCraft&a!\n&9Discord: &rdiscord.gg/nextcraft\n&6Store: &rstore.nextcraft.net\n&bTwitter/X: &r@NextCraftGames",
+            "playing.in": "&l&aJUGANDO EN &3NEXTCRAFT"
       }
 }
