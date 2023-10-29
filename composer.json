@@ -1,0 +1,17 @@
+{
+    "name": "nextcraft/locale",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Josscoder",
+            "email": "josscoder@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
