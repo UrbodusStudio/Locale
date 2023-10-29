@@ -5,14 +5,14 @@
       "translations": {
             "welcome": "&a¡Bienvenido a &3NextCraft&a!\n&9Discord: &rdiscord.gg/nextcraft\n&6Store: &rstore.nextcraft.net\n&bTwitter/X: &r@NextCraftGames",
             "playing.in": "&l&aJUGANDO EN &3NEXTCRAFT",
-            "announce.1": "¡Asegúrate de seguirnos en Twitter para recibir noticias y obsequios! @NextCraftGames",
-            "announce.2": "¿Busca nuestro servidor de Discord? Está en discord.gg/nextcraft",
-            "announce.3": "¿Ves a un jugador rompiendo nuestras reglas? Denúncialos usando /report o envía tu evidencia a #report en nuestro servidor de Discord, discord.gg/nextcraft",
-            "announce.4": "Hable con nuestra comunidad y obtenga la información de la network más reciente en nuestro servidor Discord. Únase hoy en discord.gg/nextcraft",
-            "announce.5": "¡Los jugadores GOLD y EMERALD obtienen acceso a mascotas, la posibilidad de unirse al servidor completo y más! Cómpralo ahora en store.nextcraft.net",
-            "announce.6": "¿Se pregunta cómo encontrar sus estadísticas? ¡Míralos en tu administrador social!",
-            "announce.7": "Manténgase actualizado con las últimas noticias y actualizaciones en la red, únase a Discord en discord.gg/nextcraft",
-            "announce.8": "¿Sabías que NextCraft tiene un XP global x2 durante los fines de semana?",
-            "announce.9": "¿Quieres apoyar a NextCraft? ¡Compre un rango hoy en store.nextcraft.net!"
+            "announce.1": "&a[&9!&a] &a¡Asegúrate de seguirnos en Twitter/X para recibir noticias y obsequios! @NextCraftGames",
+            "announce.2": "&a[&9!&a] &b¿Busca nuestro servidor de Discord? Está en discord.gg/nextcraft",
+            "announce.3": "&a[&9!&a] &c¿Ves a un jugador rompiendo nuestras reglas? Denúncialos usando /report o envía tu evidencia a #report en nuestro servidor de Discord, discord.gg/nextcraft",
+            "announce.4": "&a[&9!&a] &bHable con nuestra comunidad y obtenga la información de la network más reciente en nuestro servidor Discord. Únase hoy en discord.gg/nextcraft",
+            "announce.5": "&a[&9!&a] &b¡Los jugadores &6GOLD &by &aEMERALD &bobtienen acceso a mascotas, la posibilidad de unirse al servidor completo y más! Cómpralo ahora en store.nextcraft.net",
+            "announce.6": "&a[&9!&a] &b¿Se pregunta cómo encontrar sus estadísticas? ¡Míralos en tu administrador social!",
+            "announce.7": "&a[&9!&a] &bManténgase actualizado con las últimas noticias y actualizaciones en la red, únase a Discord en discord.gg/nextcraft",
+            "announce.8": "&a[&9!&a] &9¿Sabías que NextCraft tiene un XP global x2 durante los fines de semana?",
+            "announce.9": "&a[&9!&a] &9¿Quieres apoyar a NextCraft? ¡Compre un rango hoy en store.nextcraft.net!"
       }
 }
