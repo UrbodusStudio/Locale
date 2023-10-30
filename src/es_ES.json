@@ -28,7 +28,7 @@
     "second": "Segundo",
     "server.ip": "&6nextcraft.ddns.net",
     "hello.player": "Hola, {%playerName}",
-    "rank": "Rank: {%role}",
+    "rank": "Rank: {%rank}",
     "level": "Nivel: &a{%level}",
     "coins": "Coins: &a${%coins}",
     "crates": "Cajas: &a{%crates}",
