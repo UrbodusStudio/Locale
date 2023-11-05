@@ -38,6 +38,6 @@
     "increase": "&b+{%amount} {%type}",
     "decrease": "&c-{%amount} {%type}",
     "main.hologram": "&l&6Next&bCraft&r\n \n&aBienvenido de nuevo, {%playerName}\n \n&a¡Hay &b{%onlinePlayers}&a jugadores en linea!\n \n&7Clickea un NPC para entrar a un juego\n \n \n&6nextcraft.ddns.net",
-    "click.to.play": "&eCLIC PARA JUGAR"
+    "click.to.play": "&a&lCIC PARA JUGAR"
   }
 }
