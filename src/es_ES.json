@@ -14,7 +14,7 @@
     "announce.7": "&3[&b!&3] &aManténgase al tanto con las últimas noticias y actualizaciones en la red, únase a Discord en &b&odiscord.gg/nextcraft",
     "announce.8": "&3[&b!&3] &a¿Sabías que NextCraft tiene un XP global x2 durante los fines de semana?",
     "announce.9": "&3[&b!&3] &a¿Quieres apoyar a NextCraft? ¡Compre un rango hoy en &d&ostore.nextcraft.net&a!",
-    "lobby": "&b&lVESTIBULO",
+    "lobby": "&6NEXT&bCRAFT",
     "player.level.up": "&a&lSUBIDA DE NIVEL: &r&bHas alcanzado el nivel &7{%level}&b, ¡Felicidades!",
     "years": "Años",
     "months": "Meses",
@@ -38,6 +38,6 @@
     "increase": "&b+{%amount} {%type}",
     "decrease": "&c-{%amount} {%type}",
     "main.hologram": "&l&6Next&bCraft&r\n \n&aBienvenido de nuevo, {%playerName}\n \n&a¡Hay &b{%onlinePlayers}&a jugadores en linea!\n \n&7Clickea un NPC para entrar a un juego\n \n \n&6nextcraft.ddns.net",
-    "click.to.play": "&a&lCIC PARA JUGAR"
+    "click.to.play": "&a&lCLIC PARA JUGAR"
   }
 }
