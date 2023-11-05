@@ -38,6 +38,8 @@
     "increase": "&b+{%amount} {%type}",
     "decrease": "&c-{%amount} {%type}",
     "main.hologram": "&l&6Next&bCraft&r\n \n&aBienvenido de nuevo, {%playerName}\n \n&a¡Hay &b{%onlinePlayers}&a jugadores en linea!\n \n&7Clickea un NPC para entrar a un juego\n \n \n&6nextcraft.ddns.net",
-    "click.to.play": "&a&lCLIC PARA JUGAR"
+    "click.to.play": "&a&lCLIC PARA JUGAR",
+    "ranks.hologram": "&l&aRANGOS DEL SERVIDOR&r\n \n&cRangos de paga:\n&f- GOLD\n&f-EMERALD\n \n&cRangos para creadores:\n&f- Youtuber\n&f- Youtuber+",
+    "hosting.hologram": "&l&5¿NECESITAS UN HOST?&r\n \n&7Nether-hosting es una excelente elección para tus necesidades de hosting. Ofrecen una amplia\n gama de servicios, desde VPS hasta hosting de servidores de Minecraft y mucho más. Con\n su sólida infraestructura y experiencia en hosting, puedes confiar en que tus proyectos en\n línea estarán en buenas manos. Si buscas un hosting confiable y versátil, no dudes\n en considerar a Nether-hosting para satisfacer tus necesidades.\n \n \n&6nether-hosting.com"
   }
 }
