@@ -2,8 +2,8 @@
   "contributors": ["Josscoder"],
   "translations": {
     "welcome.message": "&a¡Bienvenido a &3NextCraft&a!\n&9Discord: &rdiscord.gg/nextcraft\n&6Tienda: &rstore.nextcraft.net\n&bTwitter/X: &r@NextCraftGames",
-    "welcome.title": "&l&3Next&bCraft",
-    "welcome.subtitle": "&l&aEnjoy our Opening",
+    "welcome.title": "&7Bienvenido a",
+    "welcome.subtitle": "&l&3Next&bCraft",
     "playing.in": "&l&aJUGANDO EN &3NEXTCRAFT",
     "announce.1": "&3[&b!&3] &a¡Asegúrate de seguirnos en &bTwitter/X &apara recibir noticias y obsequios! &d&o@NextCraftGames",
     "announce.2": "&3[&b!&3] &a¿Busca nuestro servidor de Discord? Está en &b&odiscord.gg/nextcraft",
