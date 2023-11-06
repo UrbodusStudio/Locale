@@ -14,7 +14,7 @@
     "announce.7": "&3[&b!&3] &aManténgase al tanto con las últimas noticias y actualizaciones en la red, únase a Discord en &b&odiscord.gg/nextcraft",
     "announce.8": "&3[&b!&3] &a¿Sabías que NextCraft tiene un XP global x2 durante los fines de semana?",
     "announce.9": "&3[&b!&3] &a¿Quieres apoyar a NextCraft? ¡Compre un rango hoy en &d&ostore.nextcraft.net&a!",
-    "lobby": "&l&6NEXT&bCRAFT",
+    "lobby": "&l&lbVESTIBULO",
     "player.level.up": "&a&lSUBIDA DE NIVEL: &r&bHas alcanzado el nivel &7{%level}&b, ¡Felicidades!",
     "years": "Años",
     "months": "Meses",
@@ -29,17 +29,17 @@
     "minute": "Minuto",
     "second": "Segundo",
     "server.ip": "&6nextcraft.ddns.net",
-    "hello.player": "Hola, {%playerName}",
-    "rank": "Rango: {%rank}",
-    "level": "Nivel: &a{%level}",
-    "coins": "Monedas: &a${%coins}",
-    "crates": "Cajas: &a{%crates}",
-    "tokens": "Fichas: &a{%tokens}",
+    "experience": "&bExp: &a{%experience}",
+    "rank": "&bRango: {%rank}",
+    "level": "&bNivel: &a{%level}",
+    "coins": "&bMonedas: &a${%coins}",
+    "crates": "&bCajas: &a{%crates}",
+    "tokens": "&bFichas: &a{%tokens}",
     "increase": "&b+{%amount} {%type}",
     "decrease": "&c-{%amount} {%type}",
     "main.hologram": "&l&6Next&bCraft&r\n \n&aBienvenido de nuevo, {%playerName}\n \n&a¡Hay &b{%onlinePlayers}&a jugadores en linea!\n \n&7Clickea un NPC para entrar a un juego\n \n \n&6nextcraft.ddns.net",
     "click.to.play": "&a&lCLIC PARA JUGAR",
     "ranks.hologram": "&l&aRANGOS DEL SERVIDOR&r\n \n&cRangos de paga:\n&f- &l&6GOLD\n&f- &l&2EMERALD\n\n&7Encuentra estos rangos en\n&dstore.nextcraft.net\n \n&cRangos para creadores:\n&f- &l&cYou&ftube\n&f- &l&5Twitch\n&f- &l&9Facebook\n&f- &l&bTi&fkt&dok",
-    "hosting.hologram": "&l&5¿NECESITAS UN HOST?&r\n \nNether-hosting es una excelente elección\npara tus necesidades de hosting. Ofrecen una amplia gama\nde servicios, desde VPS hasta hosting de\nservidores de Minecraft y muchomás.Con su sólida infraestructura\ny experiencia en hosting, puedes confiar en que tus\nproyectos en línea estarán en buenas manos.\nSi buscas un hosting confiable y versátil, no\ndudes en considerar a Nether-hosting para satisfacer tus necesidades.\n&6nether-hosting.com"
+    "hosting.hologram": "&l&d¿NECESITAS UN HOST?&r\n \nNether-hosting es una excelente elección\npara tus necesidades de hosting. Ofrecen una amplia gama\nde servicios, desde VPS hasta hosting de\nservidores de Minecraft y muchomás. Con su sólida infraestructura\ny experiencia en hosting, puedes confiar en que tus\nproyectos en línea estarán en buenas manos.\nSi buscas un hosting confiable y versátil, no\ndudes en considerar a Nether-hosting para satisfacer tus necesidades.\n \n&6nether-hosting.com"
   }
 }
