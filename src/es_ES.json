@@ -37,7 +37,7 @@
     "tokens": "&bFichas: &a{%tokens}",
     "increase": "&b+{%amount} {%type}",
     "decrease": "&c-{%amount} {%type}",
-    "main.hologram": "&l&6Next&bCraft&r\n \n&aBienvenido de nuevo, {%playerName}\n \n&a¡Hay &b{%onlinePlayers}&a jugadores en linea!\n \n&7Clickea un NPC para entrar a un juego\n \n \n&6nextcraft.ddns.net",
+    "main.hologram": "&l&bNext&6Craft&r\n \n&aBienvenido de nuevo, {%playerName}\n \n&a¡Hay &b{%onlinePlayers}&a jugadores en linea!\n \n&7Clickea un NPC para entrar a un juego\n \n \n&6nextcraft.ddns.net",
     "click.to.play": "&a&lCLIC PARA JUGAR",
     "ranks.hologram": "&a¿Buscas &bVIP&a u otros rangos?\n&aCompre rangos en &dstore.nextcraft.net\n \n&a¿Buscar rangos de creador de contenido?\n&aConsulta en el discord &9discord.nextcraft.net",
     "hosting.hologram": "&b¿Busca hosting para su servidor? Tu búsqueda termina aquí en\n&6nether-hosting.com&b, ¡tu mejor opción! Ofrecemos servicios de\n&bhosting para Minecraft, VPS y mucho más. Explore nuestras\n&bopciones hoy."
