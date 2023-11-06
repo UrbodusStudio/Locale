@@ -9,12 +9,12 @@
     "announce.2": "&3[&b!&3] &a¿Busca nuestro servidor de Discord? Está en &b&odiscord.gg/nextcraft",
     "announce.3": "&3[&b!&3] &c¿Ves a un jugador rompiendo nuestras reglas? Denúncialos usando &6/report &co envía tu evidencia a &6#report &cen nuestro servidor de Discord, &6&odiscord.gg/nextcraft",
     "announce.4": "&3[&b!&3] &aHable con nuestra comunidad y obtenga la información de la network más reciente en nuestro servidor Discord. Únase hoy en &b&odiscord.gg/nextcraft",
-    "announce.5": "&3[&b!&3] &a¡Los jugadores &6&lGOLD &r&ay &2&lEMERALD &r&aobtienen acceso a mascotas, la posibilidad de unirse al servidor completo y más! Cómpralo ahora en &d&ostore.nextcraft.net",
+    "announce.5": "&3[&b!&3] &a¡Los jugadores &bVIP &ay &6VIP++ &r&aobtienen acceso a mascotas, la posibilidad de unirse al servidor completo y más! Cómpralo ahora en &d&ostore.nextcraft.net",
     "announce.6": "&3[&b!&3] &a¿Se pregunta cómo encontrar sus estadísticas? &d&o¡Míralos en tu administrador social!",
     "announce.7": "&3[&b!&3] &aManténgase al tanto con las últimas noticias y actualizaciones en la red, únase a Discord en &b&odiscord.gg/nextcraft",
     "announce.8": "&3[&b!&3] &a¿Sabías que NextCraft tiene un XP global x2 durante los fines de semana?",
     "announce.9": "&3[&b!&3] &a¿Quieres apoyar a NextCraft? ¡Compre un rango hoy en &d&ostore.nextcraft.net&a!",
-    "lobby": "&l&lbVESTIBULO",
+    "lobby": "&l&bVESTIBULO",
     "player.level.up": "&a&lSUBIDA DE NIVEL: &r&bHas alcanzado el nivel &7{%level}&b, ¡Felicidades!",
     "years": "Años",
     "months": "Meses",
@@ -39,7 +39,7 @@
     "decrease": "&c-{%amount} {%type}",
     "main.hologram": "&l&6Next&bCraft&r\n \n&aBienvenido de nuevo, {%playerName}\n \n&a¡Hay &b{%onlinePlayers}&a jugadores en linea!\n \n&7Clickea un NPC para entrar a un juego\n \n \n&6nextcraft.ddns.net",
     "click.to.play": "&a&lCLIC PARA JUGAR",
-    "ranks.hologram": "&l&aRANGOS DEL SERVIDOR&r\n \n&cRangos de paga:\n&f- &l&6GOLD\n&f- &l&2EMERALD\n\n&7Encuentra estos rangos en\n&dstore.nextcraft.net\n \n&cRangos para creadores:\n&f- &l&cYou&ftube\n&f- &l&5Twitch\n&f- &l&9Facebook\n&f- &l&bTi&fkt&dok",
-    "hosting.hologram": "&l&d¿NECESITAS UN HOST?&r\n \nNether-hosting es una excelente elección\npara tus necesidades de hosting. Ofrecen una amplia gama\nde servicios, desde VPS hasta hosting de\nservidores de Minecraft y muchomás. Con su sólida infraestructura\ny experiencia en hosting, puedes confiar en que tus\nproyectos en línea estarán en buenas manos.\nSi buscas un hosting confiable y versátil, no\ndudes en considerar a Nether-hosting para satisfacer tus necesidades.\n \n&6nether-hosting.com"
+    "ranks.hologram": "&a¿Buscas &bVIP&a u otros rangos?\n&aCompre rangos en &dstore.nextcraft.net\n\n&a¿Buscar rangos de creador de contenido?\n&aConsulta en el &bdiscord discord.nextcraft.net",
+    "hosting.hologram": "&b¿Busca hosting para su servidor? Tu búsqueda termina aquí en\n&6nether-hosting.com&b, ¡tu mejor opción! Ofrecemos servicios de\n&bhosting para Minecraft, VPS y mucho más. Explore nuestras\n&bopciones hoy."
   }
 }
