@@ -45,6 +45,7 @@
     "citem.navigator": "&r&3Navegador",
     "citem.cosmetics": "&r&3Cosmeticos",
     "citem.profile": "&r&3Perfil",
-    "citem.social": "&r&3Social"
+    "citem.social": "&r&3Social",
+    "citem.rules": "&r&eReglas"
   }
 }
