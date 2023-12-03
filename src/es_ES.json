@@ -1,7 +1,7 @@
 {
   "contributors": ["Josscoder"],
   "translations": {
-    "welcome.message": "&a¡Bienvenido a &9Next&6Craft&a!\n&9Discord: &rdiscord.gg/nextcraft\n&6Tienda: &rstore.nextcraft.net\n&bTwitter/X: &r@NextCraftGames",
+    "welcome.message": "&a¡Bienvenido {%playerName} a &9Next&6Craft&a!\n\n&9Discord: &rdiscord.gg/nextcraft\n&6Tienda: &rstore.nextcraft.net\n&bTwitter/X: &r@NextCraftGames\n\n&7Usa el 'Navegador' para jugar o ir a otro lugar.",
     "welcome.title": "&l&9Next&6Craft",
     "welcome.subtitle": "&7Bienvenido de nuevo",
     "playing.in": "&l&fJUGANDO EN &9NEXT&6CRAFT",
@@ -14,7 +14,7 @@
     "announce.7": "&3[&b!&3] &aManténgase al tanto con las últimas noticias y actualizaciones en la red, únase a Discord en &9&odiscord.gg/nextcraft",
     "announce.8": "&3[&b!&3] &a¿Sabías que NextCraft tiene un XP global x2 durante los fines de semana?",
     "announce.9": "&3[&b!&3] &a¿Quieres apoyar a NextCraft? ¡Compre un rango hoy en &d&ostore.nextcraft.net&a!",
-    "lobby": "&l&9VESTIBULO",
+    "lobby": "&lVESTIBULO",
     "player.level.up": "&a&lSUBIDA DE NIVEL: &r&bHas alcanzado el nivel &e{%level}&b, ¡Felicidades!",
     "years": "Años",
     "months": "Meses",
