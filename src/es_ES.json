@@ -2,7 +2,7 @@
   "contributors": ["Josscoder"],
   "translations": {
     "welcome.message": "&a¡Bienvenido {%playerName} a &9NextCraft Games&a!\n\n&9Discord: &rdiscord.gg/nextcraft\n&6Tienda: &rstore.nextcraft.net\n&bTwitter/X: &r@NextCraftGames\n\n&7Usa el 'Nagevador' o los NPC para entrar a un juego.",
-    "welcome.title": "&l&9Next&6Craft",
+    "welcome.title": "&l&9NextCraft",
     "welcome.subtitle": "&7Bienvenido de nuevo",
     "playing.in": "&l&aESTÁS JUGANDO EN &bNEXTCRAFT.DDNS.NET",
     "announce.1": "&3[&b!&3] &a¡Asegúrate de seguirnos en &bTwitter/X &apara recibir noticias y obsequios! &d&o@NextCraftGames",
@@ -41,7 +41,7 @@
     "click.to.play": "&a&lCLIC PARA JUGAR",
     "playing": "&3{%playing} JUGANDO",
     "ranks.hologram": "&a¿Buscas &bVIP&a u otros rangos?\n&aCompre rangos en &dstore.nextcraft.net\n \n&a¿Buscar rangos de creador de contenido?\n&aConsulta en el discord &9discord.nextcraft.net",
-    "hosting.hologram": "&b¿Busca hosting para su servidor?\nTu búsqueda termina aquí en\n&6nether-hosting.com&b, ¡tu mejor opción!\nOfrecemos servicios de\n&bhosting para Minecraft, VPS y mucho más.\nExplore nuestras &bopciones hoy.",
+    "hosting.hologram": "&b¿Busca hosting para su servidor?\n\n&bTu búsqueda termina aquí\n\nen &6nether-hosting.com&b, ¡tu mejor opción!\n\n&bOfrecemos servicios de &bhosting\n\n&bpara Minecraft, VPS y mucho más.\n\n&bExplore nuestras &bopciones hoy.",
     "citem.navigator": "&r&aNavegador",
     "citem.cosmetics": "&r&aCosmeticos",
     "citem.profile": "&r&aPerfil",
