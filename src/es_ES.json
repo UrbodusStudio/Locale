@@ -47,6 +47,7 @@
     "citem.cosmetics": "&r&aCosmeticos",
     "citem.profile": "&r&aPerfil",
     "citem.social": "&r&aSocial",
-    "citem.rules": "&r&aReglas"
+    "citem.rules": "&r&aReglas",
+    "whereami": "&bEstas conectado en el servidor &d{%serverUniqueId}"
   }
 }
