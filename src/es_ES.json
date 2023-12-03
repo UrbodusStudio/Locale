@@ -1,10 +1,10 @@
 {
   "contributors": ["Josscoder"],
   "translations": {
-    "welcome.message": "&a¡Bienvenido {%playerName} a &9Next&6Craft&a!\n\n&9Discord: &rdiscord.gg/nextcraft\n&6Tienda: &rstore.nextcraft.net\n&bTwitter/X: &r@NextCraftGames\n\n&7Usa el 'Navegador' para jugar o ir a otro lugar.",
+    "welcome.message": "&a¡Bienvenido {%playerName} a &9Next&6Craft&a!\n\n&9● Discord: &rdiscord.gg/nextcraft\n&6● Tienda: &rstore.nextcraft.net\n&b● Twitter/X: &r@NextCraftGames\n\n&7Usa el 'Navegador' para jugar o ir a otro lugar.",
     "welcome.title": "&l&9Next&6Craft",
     "welcome.subtitle": "&7Bienvenido de nuevo",
-    "playing.in": "&l&fJUGANDO EN &9NEXT&6CRAFT",
+    "playing.in": "&l&aESTAS JUGANDO EN &bNEXTCRAFT.DDNS.NET",
     "announce.1": "&3[&b!&3] &a¡Asegúrate de seguirnos en &bTwitter/X &apara recibir noticias y obsequios! &d&o@NextCraftGames",
     "announce.2": "&3[&b!&3] &a¿Busca nuestro servidor de Discord? Está en &9&odiscord.gg/nextcraft",
     "announce.3": "&3[&b!&3] &a¿Ves a un jugador rompiendo nuestras reglas? Denúncialos usando &6/report &ao envía tu evidencia a &6#report-player &aen nuestro servidor de Discord, &9&odiscord.gg/nextcraft",
