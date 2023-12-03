@@ -53,6 +53,10 @@
     "navigator.description": "¿A donde quieres ir?",
     "rules.title": "Reglas",
     "rules.description": "&e&lCumple las reglas para no ser sancioando\n \n&c&lESTA PROHIBIDO:\n \n&r&b1)&r El uso de hacks o aplicaciones de terceros parar beneficio propio.\n&c&b2)&r Alterar apropósito tu ping para obtener ventajas.\n&b3)&r Abusar de bugs\n&r&b4)&r El racismo ,machismo, homofobia entre mas.\n&r&b5)&r Suplantar la identidad de alguien.\n&r&b6) &rInsultar, molestar a alguien o tener un mal comportamiento.",
-    "links": "&aLinks del servidor:\n\n&9Discord: &rdiscord.gg/nextcraft\n&6Tienda: &rstore.nextcraft.net\n&bTwitter/X: &r@NextCraftGames"
+    "links": "&aLinks del servidor:\n\n&9Discord: &rdiscord.gg/nextcraft\n&6Tienda: &rstore.nextcraft.net\n&bTwitter/X: &r@NextCraftGames",
+    "social.title": "Social",
+    "social.description": "Socializar con personas es bueno para tu salud, hazlo:",
+    "friends": "Amigos",
+    "party": "Fiesta"
   }
 }
