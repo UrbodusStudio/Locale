@@ -29,7 +29,7 @@
     "minute": "Minuto",
     "second": "Segundo",
     "server.ip": "&6nextcraft.ddns.net",
-    "experience": "&bExperiencia: &a{%experience}",
+    "experience": "&9Experiencia: &a{%experience}",
     "rank": "&9Rango: {%rank}",
     "level": "&9Nivel: &a{%level}",
     "coins": "&9Monedas: &a${%coins}",
