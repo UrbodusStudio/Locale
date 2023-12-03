@@ -48,6 +48,8 @@
     "citem.profile": "&r&aPerfil",
     "citem.social": "&r&aSocial",
     "citem.rules": "&r&aReglas",
-    "whereami": "&bEstas conectado al servidor &d{%serverUniqueId}"
+    "whereami": "&bEstas conectado al servidor &d{%serverUniqueId}",
+    "navigator.title": "Navegador",
+    "navigator.description": "¿A donde quieres ir?"
   }
 }
