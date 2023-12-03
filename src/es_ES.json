@@ -40,7 +40,7 @@
     "main.hologram": "&l&9NextCraft Games&r\n \n&aBienvenido de nuevo, {%playerName}\n \n&a¡Hay &b{%onlinePlayers}&a jugadores en linea!\n \n&7Usa el 'Nagevador' o los NPC para entrar a un juego\n \n \n&6nextcraft.ddns.net",
     "click.to.play": "&a&lCLIC PARA JUGAR",
     "playing": "&3{%playing} JUGANDO",
-    "offline": "&4FUERA DE LINEA"
+    "offline": "&4FUERA DE LINEA",
     "ranks.hologram": "&a¿Buscas &bVIP&a u otros rangos?\n&aCompre rangos en &dstore.nextcraft.net\n \n&a¿Buscar rangos de creador de contenido?\n&aConsulta en el discord &9discord.nextcraft.net",
     "hosting.hologram": "&6¿Busca hosting para su servidor?\n \n&bTu búsqueda termina aquí\n&ben &dnether-hosting.com&b, ¡tu mejor opción!\n&bOfrecemos servicios de &bhosting\n&bpara Minecraft, VPS y mucho más.\n&bExplore nuestras &bopciones hoy.",
     "citem.navigator": "&r&aNavegador",
