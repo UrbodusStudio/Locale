@@ -61,6 +61,8 @@
     "stats": "Estadísticas",
     "settings": "Ajustes",
     "stats.title": "Estadísticas de {%playerName}",
-    "error.when.search.stats": "&cError al buscar estadísticas"
+    "error.when.search.stats": "&cError al buscar estadísticas",
+    "settings.title": "Ajustes",
+    "settings.description": "Configura el servidor a tu gusto"
   }
 }
