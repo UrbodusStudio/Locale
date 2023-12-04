@@ -74,6 +74,7 @@
     "profile.visibility": "Visibilidad del perfil",
     "everybody": "Todos",
     "friends.and.party": "Amigos y fiesta",
-    "nobody": "Nadie"
+    "nobody": "Nadie",
+    "settings.saved": "&a¡Tu configuración se ha guardado correctamente!"
   }
 }
