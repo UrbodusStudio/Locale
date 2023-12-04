@@ -46,7 +46,7 @@
     "citem.navigator": "&r&aNavegador",
     "citem.cosmetics": "&r&aCosmeticos",
     "citem.profile": "&r&aPerfil",
-    "citem.social": "&r&aSocial",
+    "citem.egg.launcher": "&r&6Lanzador de huevos",
     "citem.rules": "&r&aReglas",
     "whereami": "&bEstas conectado al servidor &d{%serverUniqueId}",
     "navigator.title": "Navegador",
