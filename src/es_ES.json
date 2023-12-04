@@ -63,6 +63,17 @@
     "stats.title": "Estadísticas de {%playerName}",
     "error.when.search.stats": "&cError al buscar estadísticas",
     "settings.title": "Ajustes",
-    "settings.description": "Configura el servidor a tu gusto"
+    "settings.description": "Configura el servidor a tu gusto",
+    "show.players": "Mostrar jugadores",
+    "flight": "Volar",
+    "receive.chat": "Recibir chat",
+    "private.messages": "Mensajes privados",
+    "notifications": "Notificaciones",
+    "party.request": "Solicitud de fiesta",
+    "profile.privacy": "Privacidad del perfil",
+    "profile.visibility": "Visibilidad del perfil",
+    "everybody": "Todos",
+    "friends.and.party": "Amigos y fiesta",
+    "nobody": "Nadie"
   }
 }
