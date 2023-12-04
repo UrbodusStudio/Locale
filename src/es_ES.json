@@ -59,6 +59,8 @@
     "profile.title": "Perfil",
     "profile.description": "",
     "stats": "Estadísticas",
-    "settings": "Ajustes"
+    "settings": "Ajustes",
+    "stats.title": "Estadísticas de {%playerName}",
+    "error.when.search.stats": "&cError al buscar estadísticas"
   }
 }
