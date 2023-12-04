@@ -57,6 +57,10 @@
     "social.title": "Social",
     "social.description": "Socializar con personas es bueno para tu salud, hazlo:",
     "friends": "Amigos",
-    "party": "Fiesta"
+    "party": "Fiesta",
+    "profile.title": "Perfil",
+    "profile.description": "",
+    "stats": "Estadísticas",
+    "settings": "Ajustes"
   }
 }
