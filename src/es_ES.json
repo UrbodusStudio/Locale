@@ -57,7 +57,7 @@
     "friends": "Amigos",
     "party": "Fiesta",
     "profile.title": "Perfil de {%playerName}",
-    "profile.description": "&rId: &b#{%id}\n&rXuid: &b{%xuid}\n&rNombre del jugador: &b{%playerName}\n&rFichas: &b{%tokens}\n&rMonedas: &b{%coins}\n&rCajas: &b{%crates}\n&rNivel: &b{%level}\n&rExperiencia: &b{%experience}\n&rProgreso: &b{%progress}%",
+    "profile.description": "&rId: &b#{%id}\n&rXuid: &b{%xuid}\n&rFichas: &b{%tokens}\n&rMonedas: &b{%coins}\n&rCajas: &b{%crates}\n&rNivel: &b{%level}\n&rExperiencia: &b{%experience}\n&rProgreso: &b{%progress}%",
     "stats": "Estadísticas",
     "settings": "Ajustes",
     "stats.title": "Estadísticas de {%playerName}",
@@ -79,6 +79,12 @@
     "profile": "Perfil",
     "social.title": "Social",
     "social.description": "",
-    "no.profile.found": "&cEste jugador nunca se ha conectado a este servidor"
+    "no.profile.found": "&cEste jugador nunca se ha conectado a este servidor",
+    "connection": "Conexión",
+    "connection.title": "Conexión de {%playerName}",
+    "connection.description": "",
+    "rankData": "Rango",
+    "rankData.title": "Datos de rango de {%playerName}",
+    "rankData.description": ""
   }
 }
