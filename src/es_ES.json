@@ -82,10 +82,10 @@
     "no.profile.found": "&cEste jugador nunca se ha conectado a este servidor",
     "connection": "Conexión",
     "connection.title": "Conexión de {%playerName}",
-    "connection.description": "",
+    "connection.description": "&rEn linea: {%online}\n&rUltima desconexión: &c{%lastLogout}\n&rUltimo servidor: &a{%lastServer}\n&rPrimera conexion: &a{%firstEntry}",
     "rankData": "Rango",
     "rankData.title": "Datos de rango de {%playerName}",
-    "rankData.description": "&rRango: {%rank}\n&rColor de nombre: {%nameColor}\n&rColor de chat: {%chatColor}\n&rEtiquetas: {%tags}\n&rExpiración: {%expiry}",
-    "never": "&bNunca"
+    "rankData.description": "&rRango: {%rank}\n&rColor de nombre: {%nameColor}\n&rColor de chat: {%chatColor}\n&rEtiquetas: {%tags}\n&rExpiración: &c{%expiry}",
+    "never": "Nunca"
   }
 }
