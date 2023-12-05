@@ -87,6 +87,8 @@
     "rankData.title": "Datos de rango de {%playerName}",
     "rankData.description": "&rRango: {%rank}\n&rColor de nombre: {%nameColor}\n&rColor de chat: {%chatColor}\n&rEtiquetas: {%tags}\n&rExpiración: {%expiry}",
     "never": "&cNunca",
-    "none": "&cNinguno"
+    "none": "&cNinguno",
+    "yes": "&aSi",
+    "no": "&cNo"
   }
 }
