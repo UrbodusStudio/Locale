@@ -61,7 +61,6 @@
     "stats": "Estadísticas",
     "settings": "Ajustes",
     "stats.title": "Estadísticas de {%playerName}",
-    "error.when.search.stats": "&cError al buscar estadísticas",
     "settings.title": "Ajustes",
     "settings.description": "Configura el servidor a tu gusto",
     "show.players": "Mostrar jugadores",
@@ -79,6 +78,7 @@
     "no.stats": "&cNo hay estadisticas para mostrar",
     "profile": "Perfil",
     "social.title": "Social",
-    "social.description": ""
+    "social.description": "",
+    "no.profile": "&cEste jugador nunca se ha conectado a este servidor"
   }
 }
