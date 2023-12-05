@@ -48,7 +48,7 @@
     "citem.social": "&r&aSocial",
     "citem.egg.launcher": "&r&6Lanzador de huevos",
     "citem.rules": "&r&aReglas",
-    "whereami": "&bEstas conectado al servidor &d{%serverUniqueId}",
+    "whereami": "&aEstas conectado al servidor\n&cUUID: &r{%serverUniqueId}\n&cNombre: &r{%serverName}",
     "navigator.title": "Navegador",
     "navigator.description": "¿A donde quieres ir?",
     "rules.title": "Reglas",
