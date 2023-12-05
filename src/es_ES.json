@@ -97,6 +97,6 @@
     "usage": "&cUso: /{%command} {%args}",
     "player.offline": "&cEl jugador {%playerName} está desconectado",
     "rank.invalid": "&c¡El rango '{%rank}' no exsite!",
-    "set.rank": "&aEstableciste {%rank} como el rango de &e{%playerName} &epor &e{%expiry}"
+    "set.rank": "&aEstableciste {%rank} como el rango de &e{%playerName} &ey expira en &e{%expiry}"
   }
 }
