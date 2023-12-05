@@ -95,6 +95,8 @@
     "rank.expired": "&c¡Tu rango ha caducado!",
     "rank.will.expire": "&cTu rango caducará en {%expiry}",
     "usage": "&cUso: /{%command} {%args}",
-    "player.offline": "&cEl jugador {%playerName} está desconectado"
+    "player.offline": "&cEl jugador {%playerName} está desconectado",
+    "rank.invalid": "&c¡El rango '{%rank}' no exsite!",
+    "set.rank": "&aEstableciste {%rank} como el rango de &e{%playerName} &epor &e{%expiry}"
   }
 }
