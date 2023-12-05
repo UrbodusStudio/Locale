@@ -75,6 +75,7 @@
     "everybody": "Todos",
     "friends.and.party": "Amigos y fiesta",
     "nobody": "Nadie",
-    "settings.saved": "&a¡Tu configuración se ha guardado correctamente!"
+    "settings.saved": "&a¡Tu configuración se ha guardado correctamente!",
+    "no.stats": "&cNo hay estadisticas para mostrar"
   }
 }
