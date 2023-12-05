@@ -45,7 +45,7 @@
     "hosting.hologram": "&6¿Busca hosting para su servidor?\n \n&bTu búsqueda termina aquí\n&ben &dnether-hosting.com&b, ¡tu mejor opción!\n&bOfrecemos servicios de &bhosting\n&bpara Minecraft, VPS y mucho más.\n&bExplore nuestras &bopciones hoy.",
     "citem.navigator": "&r&aNavegador",
     "citem.cosmetics": "&r&aCosmeticos",
-    "citem.profile": "&r&aPerfil",
+    "citem.social": "&r&aSocial",
     "citem.egg.launcher": "&r&6Lanzador de huevos",
     "citem.rules": "&r&aReglas",
     "whereami": "&bEstas conectado al servidor &d{%serverUniqueId}",
@@ -56,7 +56,7 @@
     "links": "&aLinks del servidor:\n\n&9Discord: &rdiscord.gg/nextcraft\n&6Tienda: &rstore.nextcraft.net\n&bTwitter/X: &r@NextCraftGames\n&dHost: &rnether-hosting.com",
     "friends": "Amigos",
     "party": "Fiesta",
-    "profile.title": "Perfil",
+    "profile.title": "Perfil de {%playerName}",
     "profile.description": "",
     "stats": "Estadísticas",
     "settings": "Ajustes",
@@ -76,6 +76,9 @@
     "friends.and.party": "Amigos y fiesta",
     "nobody": "Nadie",
     "settings.saved": "&a¡Tu configuración se ha guardado correctamente!",
-    "no.stats": "&cNo hay estadisticas para mostrar"
+    "no.stats": "&cNo hay estadisticas para mostrar",
+    "profile": "Perfil",
+    "social.title": "Social",
+    "social.description": ""
   }
 }
