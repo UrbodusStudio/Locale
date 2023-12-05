@@ -92,7 +92,8 @@
     "no": "&cNo",
     "back": "Atras",
     "language": "&aEl lenguaje &6{%localeCode} &aha sido desarrollado gracias a la ayuda de: &e{%contributors}\n \n&o&7Recuerda que si quieres cambiar el idioma tienes que hacerlo directamente desde tu Minecraft, ya que contamos con un sistema de detección automatico. Si al cambiar el idioma sigues teniendo el mismo problema, es posible que aún no lo hayamos desarollado por completo.",
-    "rank.expired": "&c¡Tu rango ha expirado!",
-    "rank.will.expire": "&cTu rango caducará en {%expiry}"
+    "rank.expired": "&c¡Tu rango ha caducado!",
+    "rank.will.expire": "&cTu rango caducará en {%expiry}",
+    "usage": "&cUso: /{%command} {%args}"
   }
 }
