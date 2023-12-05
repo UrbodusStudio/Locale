@@ -37,7 +37,7 @@
     "tokens": "&9Fichas: &a{%tokens}",
     "increase": "&b+{%amount} {%type}",
     "decrease": "&c-{%amount} {%type}",
-    "main.hologram": "&l&9Next&6Craft &aGames&r\n \n&aBienvenido de nuevo, {%playerName}\n \n&a¡Hay &b{%onlinePlayers}&a jugadores en linea!\n \n&7Usa el 'Nagevador' o los NPC para entrar a un juego\n \n \n&6nextcraft.ddns.net",
+    "main.hologram": " &l&9Next&6Craft &aGames&r \n \n&aBienvenido de nuevo, {%playerName}\n \n&a¡Hay &b{%onlinePlayers}&a jugadores en linea!\n \n&7Usa el 'Nagevador' o los NPC para entrar a un juego\n \n \n&6nextcraft.ddns.net",
     "click.to.play": "&a&lCLIC PARA JUGAR",
     "playing": "&3{%playing} JUGANDO",
     "offline": "&4FUERA DE LINEA",
