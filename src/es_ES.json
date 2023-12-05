@@ -57,7 +57,7 @@
     "friends": "Amigos",
     "party": "Fiesta",
     "profile.title": "Perfil de {%playerName}",
-    "profile.description": "",
+    "profile.description": "&rId: &b#{%id}\n&rXuid: &b{%xuid}\n&rNombre del jugador: &b{%playerName}\n&rFichas: &b{%tokens}\n&rMonedas: &b{%coins}\n&rCajas: &b{%crates}\n&rNivel: &b{%level}\n&rExperiencia: &b{%experience}",
     "stats": "Estadísticas",
     "settings": "Ajustes",
     "stats.title": "Estadísticas de {%playerName}",
