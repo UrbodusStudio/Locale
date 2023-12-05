@@ -90,6 +90,7 @@
     "none": "&cNinguno",
     "yes": "&aSi",
     "no": "&cNo",
-    "back": "Atras"
+    "back": "Atras",
+    "language": "&aEl lenguaje &6{%localeCode} &aha sido desarrollado gracias a la ayuda de: &e{%contributors}\n \n&o&7Recuerda que si quieres cambiar el idioma tienes que hacerlo directamente desde tu Minecraft, ya que contamos con un sistema de detección automatico, si sigue igual es posible que aún no hayamos desarrollado tu idioma."
   }
 }
