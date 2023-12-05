@@ -89,6 +89,7 @@
     "never": "&cNunca",
     "none": "&cNinguno",
     "yes": "&aSi",
-    "no": "&cNo"
+    "no": "&cNo",
+    "back": "Atras"
   }
 }
