@@ -75,10 +75,10 @@
     "friends.and.party": "Amigos y fiesta",
     "nobody": "Nadie",
     "settings.saved": "&a¡Tu configuración se ha guardado correctamente!",
-    "no.stats": "&cNo hay estadisticas para mostrar",
+    "no.stats.found": "&cNo hay estadisticas para mostrar",
     "profile": "Perfil",
     "social.title": "Social",
     "social.description": "",
-    "no.profile": "&cEste jugador nunca se ha conectado a este servidor"
+    "no.profile.found": "&cEste jugador nunca se ha conectado a este servidor"
   }
 }
