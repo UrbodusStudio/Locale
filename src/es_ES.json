@@ -1,12 +1,12 @@
 {
   "contributors": ["Josscoder"],
   "translations": {
-    "welcome.message": "&a¡Bienvenido {%playerName} a &l&9Next&6Craft &aGames&r&a!\n\n&9Discord: &rdiscord.gg/nextcraft\n&6Tienda: &rstore.nextcraft.net\n&bTwitter/X: &r@NextCraftGames\n\n&7Usa el 'Nagevador' o los NPC para entrar a un juego.",
+    "welcome.message": "&a¡Bienvenido {%playerName} a &l&9Next&6Craft &aGames&r&a!\n\n&9Discord: &rhttps://discord.gg/V4EXqf24JM\n&6Tienda: &rstore.nextcraft.net\n&bTwitter/X: &r@NextCraftGames\n\n&7Usa el 'Nagevador' o los NPC para entrar a un juego.",
     "welcome.title": "&l&9Next&6Craft",
     "welcome.subtitle": "&7Bienvenido de nuevo",
     "playing.in": "&l&aESTÁS JUGANDO EN &9NEXTCRAFT.DDNS.NET",
     "announce.1": " &a¡Asegúrate de seguirnos en &bTwitter/X &apara recibir noticias y obsequios! &d&o@NextCraftGames",
-    "announce.2": " &a¿Busca nuestro servidor de Discord? Está en &9&odiscord.gg/nextcraft",
+    "announce.2": " &a¿Busca nuestro servidor de Discord? Está en &9&ohttps://discord.gg/V4EXqf24JM",
     "announce.3": " &a¿Ves a un jugador rompiendo nuestras reglas? Denúncialos usando &6/report &ao envía tu evidencia a &6#report-player &aen nuestro servidor de Discord, &9&odiscord.gg/nextcraft",
     "announce.4": " &aHable con nuestra comunidad y obtenga la información de la network más reciente en nuestro servidor Discord. Únase hoy en &9&odiscord.gg/nextcraft",
     "announce.5": " &a¡Los jugadores &bVIP &ay &6VIP+ &r&aobtienen acceso a mascotas, la posibilidad de unirse al servidor completo y más! Cómpralo ahora en &d&ostore.nextcraft.net",
