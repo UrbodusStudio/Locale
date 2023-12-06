@@ -1,10 +1,10 @@
 {
   "contributors": ["Josscoder"],
   "translations": {
-    "welcome.message": "&a¡Bienvenido {%playerName}&a a &l&tNext&6Craft &aGames&r&a!\n\n&9Discord: &rhttps://discord.gg/V4EXqf24JM\n&6Tienda: &rstore.nextcraft.net\n&bTwitter/X: &r@NextCraftGames\n\n&7Usa el 'Nagevador' o los NPC para entrar a un juego.",
-    "welcome.title": "&l&tNext&6Craft",
+    "welcome.message": "&a¡Bienvenido {%playerName}&a a &l§tNext&6Craft &aGames&r&a!\n\n&9Discord: &rhttps://discord.gg/V4EXqf24JM\n&6Tienda: &rstore.nextcraft.net\n&bTwitter/X: &r@NextCraftGames\n\n&7Usa el 'Nagevador' o los NPC para entrar a un juego.",
+    "welcome.title": "&l§tNext&6Craft",
     "welcome.subtitle": "&7Bienvenido de nuevo",
-    "playing.in": "&l&aESTÁS JUGANDO EN &tNEXTCRAFT.DDNS.NET",
+    "playing.in": "&l&aESTÁS JUGANDO EN §tNEXTCRAFT.DDNS.NET",
     "announce.1": " &a¡Asegúrate de seguirnos en &bTwitter/X &apara recibir noticias y obsequios! &d&o@NextCraftGames",
     "announce.2": " &a¿Busca nuestro servidor de Discord? Está en &9&ohttps://discord.gg/V4EXqf24JM",
     "announce.3": " &a¿Ves a un jugador rompiendo nuestras reglas? Denúncialos usando &6/report &ao envía tu evidencia a &6#report-player &aen nuestro servidor de Discord, &9&ohttps://discord.gg/V4EXqf24JM",
@@ -37,7 +37,7 @@
     "tokens": "&9Fichas: &a{%tokens}",
     "increase": "&b+{%amount} {%type}",
     "decrease": "&c-{%amount} {%type}",
-    "main.hologram": " &l&tNext&6Craft &aGames&r \n \n&aBienvenido de nuevo, {%playerName}\n \n&a¡Hay &b{%onlinePlayers}&a jugadores en linea!\n \n&7Usa el 'Nagevador' o los NPC para entrar a un juego\n \n \n&6nextcraft.ddns.net",
+    "main.hologram": " &l§tNext&6Craft &aGames&r \n \n&aBienvenido de nuevo, {%playerName}\n \n&a¡Hay &b{%onlinePlayers}&a jugadores en linea!\n \n&7Usa el 'Nagevador' o los NPC para entrar a un juego\n \n \n&6nextcraft.ddns.net",
     "click.to.play": "&a&lCLIC PARA JUGAR",
     "playing": "&3{%playing} JUGANDO",
     "offline": "&4FUERA DE LINEA",
