@@ -102,6 +102,7 @@
     "set.rank.offline": "&aAñadiste el rango {%rank}&a a la cola para darselo a &e{%playerName} &acuando este en linea y este expira en &e{%expiry}",
     "already.connected": "&cYa estas conectado",
     "coming.soon": "&cMuy pronto...",
-    "no.permission": "&cNo tienes permiso"
+    "no.permission": "&cNo tienes permiso",
+    "cool.down": "&cPodras volver a usar esto en {%remaining}"
   }
 }
