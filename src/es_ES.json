@@ -64,16 +64,15 @@
     "settings.title": "Ajustes",
     "settings.description": "Configura el servidor a tu gusto",
     "show.players": "Mostrar jugadores",
-    "flight": "Volar",
+    "flight": "Volar &c(Sólo rangos VIP o superiores)",
     "receive.chat": "Recibir chat",
     "private.messages": "Mensajes privados",
     "notifications": "Notificaciones",
-    "party.request": "Solicitud de fiesta",
+    "party.requests": "Solicitud de fiestas",
     "profile.privacy": "Privacidad del perfil",
-    "profile.visibility": "Visibilidad del perfil",
-    "everybody": "Todos",
-    "friends.and.party": "Amigos y fiesta",
-    "nobody": "Nadie",
+    "everybody.option": "&l&aTodos",
+    "friends.option": "&l&6Amigos",
+    "nobody.option": "&l&cNadie",
     "settings.saved": "&a¡Tu configuración se ha guardado correctamente!",
     "no.stats.found": "&cNo hay estadisticas para mostrar",
     "profile": "Perfil",
@@ -103,6 +102,10 @@
     "already.connected": "&cYa estas conectado",
     "coming.soon": "&cMuy pronto...",
     "no.permission": "&cNo tienes permiso",
-    "cool.down": "&cPodras volver a usar esto en {%remaining}"
+    "cool.down": "&cPodras volver a usar esto en {%remaining}",
+    "friends.requests": "Peticiones de amistad",
+    "general.settings": "&l&bCONFIGURACIÓN GENERAL:",
+    "lobby.settings": "&l&bAJUSTES DEL VESTÍBULO:",
+    "lobby.settings": "&l&bCONFIGURACIONES DE CHAT:"
   }
 }
