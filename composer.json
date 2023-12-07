@@ -13,6 +13,6 @@
             "email": "josscoder@hotmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {}
 }
