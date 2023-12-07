@@ -101,6 +101,7 @@
     "game.is.offline": "&cEl juego está fuera de línea.",
     "set.rank.offline": "&aAñadiste el rango {%rank}&a a la cola para darselo a &e{%playerName} &acuando este en linea y este expira en &e{%expiry}",
     "already.connected": "&cYa estas conectado",
-    "coming.soon": "&cMuy pronto..."
+    "coming.soon": "&cMuy pronto...",
+    "no.permission": "&cNo tienes permiso"
   }
 }
