@@ -104,6 +104,7 @@
     "friends.requests": "Peticiones de amistad",
     "general.settings": "&l&bCONFIGURACIÓN GENERAL:",
     "lobby.settings": "&l&bAJUSTES DEL VESTÍBULO:",
-    "chat.settings": "&l&bCONFIGURACIONES DE CHAT:"
+    "chat.settings": "&l&bCONFIGURACIONES DE CHAT:",
+    "no.games.available": "&cNo hay partidos disponibles"
   }
 }
