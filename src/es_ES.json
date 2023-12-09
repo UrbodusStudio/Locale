@@ -112,6 +112,9 @@
     "game.cancelled": "&4El inicio del juego ha sido cancelado",
     "starting.in": "&e¡El juego comenzará en &a{%startTime}&e segundos!",
     "game.started": "&3¡El juego ha comenzado!",
-    "game.ends.in": "&c¡El juego terminará en &6{%endTime}&c segundos!"
+    "game.ends.in": "&c¡El juego terminará en &6{%endTime}&c segundos!",
+    "player.won": "&a¡El jugador {%playerName}&a ganó el juego!",
+    "victory": "&a&lVICTORIA",
+    "you.won": "&7Ganaste el juego"
   }
 }
