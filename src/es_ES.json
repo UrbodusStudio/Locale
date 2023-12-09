@@ -110,6 +110,7 @@
     "game.join": "&3¡{%playerName}&3 entró al juego &e({%players}/{%maxPlayers})&3!",
     "game.quit": "&c¡{%playerName}&c dejó el juego &e({%players}/{%maxPlayers})&c!",
     "game.cancelled": "&4El inicio del juego ha sido cancelado",
-    "starting.in": "&e¡El juego comenzará en &a{%startTime}&e segundos!"
+    "starting.in": "&e¡El juego comenzará en &a{%startTime}&e segundos!",
+    "game.started": "&3¡El juego ha comenzado!"
   }
 }
