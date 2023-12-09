@@ -106,7 +106,6 @@
     "lobby.settings": "&l&bAJUSTES DEL VESTÍBULO:",
     "chat.settings": "&l&bCONFIGURACIONES DE CHAT:",
     "no.games.available": "&cNo hay juegos disponibles",
-    "no.teams.available": "&cNo hay equipos disponibles",
-    "already.in.game": "&cYa estas en un juego"
+    "no.teams.available": "&cNo hay equipos disponibles"
   }
 }
