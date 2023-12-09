@@ -114,6 +114,7 @@
     "game.started": "&3¡El juego ha comenzado!",
     "game.ends.in": "&c¡El juego terminará en &6{%endTime}&c segundos!",
     "player.won": "&a¡El jugador {%playerName}&a ganó el juego!",
+    "players.won": "&a¡Los jugadores {%playersNames}&a ganaron el juego!",
     "victory": "&a&lVICTORIA",
     "you.won": "&7Ganaste el juego"
   }
