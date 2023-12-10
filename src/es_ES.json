@@ -118,6 +118,7 @@
     "victory": "&a&lVICTORIA",
     "you.won": "&7Ganaste el juego",
     "players": "§sJugadores: &f{%players}/{%maxPlayers}",
-    "map": "§sMapa: {%map}"
+    "map": "§sMapa: {%map}",
+    "force.start": "&6¡El juego ha sido forzado a iniciarse y comenzará en {%time} segundos!"
   }
 }
