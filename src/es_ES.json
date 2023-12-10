@@ -119,6 +119,7 @@
     "you.won": "&7Ganaste el juego",
     "players": "§sJugadores: &f{%players}/{%maxPlayers}",
     "map": "§sMapa: {%map}",
-    "force.start": "&6¡El juego ha sido forzado a iniciarse y comenzará en {%time} segundos!"
+    "force.start": "&6¡El juego ha sido forzado a iniciarse y comenzará en {%time} segundos!",
+    "game.over": "&3¡El juego ha terminado!"
   }
 }
