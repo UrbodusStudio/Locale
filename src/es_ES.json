@@ -130,6 +130,7 @@
     "data.added": "&aLos datos &6{%key} &afueron agregados con el valor &6{%value}&a, correctamente",
     "data.set": "&6{%key} &ase configuró correctamente en el valor &6{%value}",
     "already.in.setup": "&cYa estás configurando un dato para un mapa",
-    "added.to.setup": "&aToca un bloque para agregar/configurar"
+    "added.to.setup": "&aToca un bloque para agregar/configurar",
+    "you.are.now.spectator": "&6Ahora eres espectador"
   }
 }
