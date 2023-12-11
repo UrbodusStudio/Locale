@@ -131,7 +131,7 @@
     "data.set": "&6{%key} &ase configuró correctamente en el valor &6{%value}",
     "already.in.setup": "&cYa estás configurando un dato para un mapa",
     "added.to.setup": "&aToca un bloque para agregar/configurar",
-    "you.are.now.spectator": "&6Ahora eres espectador"
+    "you.are.now.spectator": "&6Ahora eres espectador",
     "player.died": "{%playerName} &7murió ({%players}/{%maxPlayers})",
     "player.killed.by": "{%killed} &cfue asesinada por {%killer} &7({%players}/{%maxPlayers})",
     "get.ready": "&l&bPREPARARSE",
