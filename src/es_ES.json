@@ -111,7 +111,7 @@
     "game.quit": "&c¡{%playerName}&c dejó el juego &e({%players}/{%maxPlayers})&c!",
     "game.cancelled": "&4El inicio del juego ha sido cancelado",
     "starting.in": "§s¡El juego comenzará en &a{%startTime}&r§s segundos!",
-    "game.started": "&3¡El juego ha comenzado!",
+    "game.started": "&a¡El juego ha comenzado!",
     "game.ends.in": "&c¡El juego terminará en &6{%endTime}&r&c segundos!",
     "player.won": "&a¡El jugador {%playerName}&r&a ganó el juego!",
     "players.won": "&a¡Los jugadores {%playersNames}&r&a ganaron el juego!",
@@ -120,7 +120,8 @@
     "players": "§sJugadores: &f{%players}/{%maxPlayers}",
     "map": "§sMapa: {%map}",
     "force.start": "&6¡El juego ha sido forzado a iniciarse y comenzará en {%time} segundos!",
-    "game.over": "&3¡El juego ha terminado!",
-    "starting.in.2": "§sIniciando en: &f{%startTime}"
+    "game.over": "&c¡El juego ha terminado!",
+    "starting.in.2": "§sIniciando en: &f{%startTime}",
+    "skywars.game.description": "&7Skywars es un juego multijugador en el que los jugadores se enfrentan entre sí en islas flotantes. El objetivo es ser el último jugador o equipo vivo."
   }
 }
