@@ -120,6 +120,7 @@
     "players": "§sJugadores: &f{%players}/{%maxPlayers}",
     "map": "§sMapa: {%map}",
     "force.start": "&6¡El juego ha sido forzado a iniciarse y comenzará en {%time} segundos!",
-    "game.over": "&3¡El juego ha terminado!"
+    "game.over": "&3¡El juego ha terminado!",
+    "starting.in": "§sIniciando en: &f{%startTime}"
   }
 }
