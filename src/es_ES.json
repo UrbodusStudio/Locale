@@ -107,8 +107,8 @@
     "chat.settings": "&l&bCONFIGURACIONES DE CHAT:",
     "no.games.available": "&cNo hay juegos disponibles",
     "no.teams.available": "&cNo hay equipos disponibles",
-    "game.join": "&3¡{%playerName}&3 entró al juego &e({%players}/{%maxPlayers})&3!",
-    "game.quit": "&c¡{%playerName}&c dejó el juego &e({%players}/{%maxPlayers})&c!",
+    "game.join": " &3¡{%playerName}&3 entró al juego &e({%players}/{%maxPlayers})&3!",
+    "game.quit": " &c¡{%playerName}&c dejó el juego &e({%players}/{%maxPlayers})&c!",
     "game.cancelled": "&4El inicio del juego ha sido cancelado",
     "starting.in": "§s¡El juego comenzará en &a{%startTime}&r§s segundos!",
     "game.started": "&a¡El juego ha comenzado!",
@@ -122,7 +122,7 @@
     "force.start": "&6¡El juego ha sido forzado a iniciarse y comenzará en {%time} segundos!",
     "game.over": "&c¡El juego ha terminado!",
     "starting.in.scoreboard": "§sIniciando en: &f{%startTime}",
-    "skywars.game.description": "&7Skywars es un juego multijugador en el que los jugadores se enfrentan entre sí en islas flotantes. El objetivo es ser el último jugador o equipo vivo.",
+    "skywars.game.description": " &7Skywars es un juego multijugador en el que los jugadores se enfrentan entre sí en islas flotantes. El objetivo es ser el último jugador o equipo vivo.",
     "no.players": "&cNo hay suficientes jugadores",
     "game.already.started": "&cEl juego ya ha comenzado",
     "map.saved": "&aSe guardo el mapa &b{%map}&a en &b{%destination}",
@@ -132,11 +132,13 @@
     "already.in.setup": "&cYa estás configurando un dato para un mapa",
     "added.to.setup": "&aToca un bloque para agregar/configurar",
     "you.are.now.spectator": "&6Ahora eres espectador",
-    "player.died": "{%playerName} &7murió ({%players}/{%maxPlayers})",
-    "player.killed.by": "{%killed} &cfue asesinada por {%killer} &7({%players}/{%maxPlayers})",
+    "player.died": "{%playerName} &7murió ({%players}/{%maxPlayers}) ",
+    "player.killed.by": "{%killed} &cfue asesinada por {%killer} &7({%players}/{%maxPlayers}) ",
     "get.ready": "&l&bPREPARARSE",
     "time": "{%time}",
     "go": "&l&9¡VAMOS!",
-    "team.is.not.allowed": "&c&lEl equipo no está permitido en {%gameName} Solo"
+    "team.is.not.allowed": "&c&lEl equipo no está permitido en {%gameName} Solo",
+    "kills": "§sAsesinatos: {%kills}",
+    "deaths": "§sMuertes: {%deaths}"
   }
 }
