@@ -139,6 +139,8 @@
     "go": "&l&9¡VAMOS!",
     "team.is.not.allowed": "&c&lEl equipo no está permitido en {%gameName} Solo",
     "kills": "§sAsesinatos: {%kills}",
-    "deaths": "§sMuertes: {%deaths}"
+    "deaths": "§sMuertes: {%deaths}",
+    "citem.return.to.lobby": "&r&cRegresar al vestíbulo",
+    "citem.play.again": "&r&aJuega de nuevo"
   }
 }
