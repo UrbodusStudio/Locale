@@ -144,6 +144,6 @@
     "citem.play.again": "&r&aJuega de nuevo",
     "map.by": " &bEste mapa fue creado por &6{%author}",
     "empty": "&cVacio",
-    "next.refill": "§sRelleno en: &f{%refill}"
+    "next.refill": "§sRelleno en: &f{%refillTime}"
   }
 }
