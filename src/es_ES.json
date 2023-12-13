@@ -122,7 +122,7 @@
     "force.start": "&6¡El juego ha sido forzado a iniciarse y comenzará en {%time} segundos!",
     "game.over": "&c¡El juego ha terminado!",
     "starting.in.scoreboard": "§sIniciando en: &f{%startTime}",
-    "skywars.game.description": " &7Skywars es un juego multijugador en el que los jugadores se enfrentan entre sí en islas flotantes. El objetivo es ser el último jugador o equipo vivo.",
+    "skywars.game.description": " &7Skywars es un juego multijugador en el que los jugadores se enfrentan entre sí en islas flotantes. El objetivo es ser el último jugador vivo.",
     "no.players": "&cNo hay suficientes jugadores",
     "game.already.started": "&cEl juego ya ha comenzado",
     "map.saved": "&aSe guardo el mapa &b{%map}&a en &b{%destination}",
