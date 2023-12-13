@@ -142,6 +142,6 @@
     "deaths": "§sMuertes: {%deaths}",
     "citem.return.to.lobby": "&r&cRegresar al vestíbulo",
     "citem.play.again": "&r&aJuega de nuevo",
-    "map.by": "&bEl mapa &6{%map}&b fue creado por &6{%author}"
+    "map.by": "&bEste mapa fue creado por &6{%author}"
   }
 }
