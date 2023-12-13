@@ -136,14 +136,14 @@
     "player.killed.by": " {%killed} &cfue asesinada por {%killer} &7({%players}/{%maxPlayers})",
     "get.ready": "&l&bPREPARARSE",
     "time": "{%time}",
-    "go": "&l&9¡VAMOS!",
+    "go": "&l&c¡VAMOS!",
     "team.is.not.allowed": " &c&lEl equipo no está permitido en {%gameName} Solo",
     "kills": "§sAsesinatos: &f{%kills}",
     "deaths": "§sMuertes: &f{%deaths}",
     "citem.return.to.lobby": "&r&cRegresar al vestíbulo",
     "citem.play.again": "&r&aJuega de nuevo",
     "map.by": " &bEste mapa fue creado por &6{%author}",
-    "empty": "&cVacio",
+    "empty": "&c¡Vacio!",
     "next.refill": "§sRelleno en: &f{%refillTime}"
   }
 }
