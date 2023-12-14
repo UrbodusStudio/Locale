@@ -144,6 +144,11 @@
     "citem.play.again": "&r&aJuega de nuevo",
     "map.by": " &bEste mapa fue creado por &6{%author}",
     "empty": "&c¡Vacio!",
-    "next.refill": "§sRelleno en: &f{%refillTime}"
+    "next.refill": "§sRelleno en: &f{%refillTime}",
+    "game.skipped": "&cEl juego pasó a la siguiente fase.",
+    "game.already.frozen": "&cEl juego ya esta congelado.",
+    "game.frozen": "&6El juego se congeló.",
+    "game.is.not.frozen": "&cEl juego no está congelado.",
+    "game.unfrozen": "&6El juego ha sido descongelado."
   }
 }
