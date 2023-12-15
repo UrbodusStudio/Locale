@@ -149,6 +149,7 @@
     "game.already.frozen": "&cEl juego ya esta congelado.",
     "game.frozen": "&6El juego se congeló.",
     "game.is.not.frozen": "&cEl juego no está congelado.",
-    "game.unfrozen": "&6El juego ha sido descongelado."
+    "game.unfrozen": "&6El juego ha sido descongelado.",
+    "please.set.backup": "&cPor favor configure la ruta de respaldo del mapa"
   }
 }
