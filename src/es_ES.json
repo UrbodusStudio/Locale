@@ -150,6 +150,9 @@
     "game.frozen": "&6El juego se congeló.",
     "game.is.not.frozen": "&cEl juego no está congelado.",
     "game.unfrozen": "&6El juego ha sido descongelado.",
-    "please.set.backup": "&cPor favor configure la ruta de respaldo del mapa"
+    "please.set.backup": "&cPor favor configure la ruta de respaldo del mapa",
+    "random.map.selected": "&e{%map} &afue seleccionado como &eMapa&a, debido a que no hay votos",
+    "map.selected": "&e{%map} &afue seleccionado como &eMapa&a",
+    "you.have.voted.map": "&aVotaste por el mapa &e{%map}"
   }
 }
