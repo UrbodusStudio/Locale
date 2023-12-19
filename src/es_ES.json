@@ -153,6 +153,9 @@
     "please.set.backup": "&cPor favor configure la ruta de respaldo del mapa",
     "map.selected": "&e{%map} &afue seleccionado como &eMapa&a",
     "you.have.voted.map": "&aVotaste por el mapa &e{%map}",
-    "chests.filled": "&6¡Los cofres fueron rellenados!"
+    "chests.filled": "&6¡Los cofres fueron rellenados!",
+    "game.does.not.exits": "&cEse juego no existe.",
+    "you.are.not.playing": "&cNo estas jugando.",
+    "can.not.start.game": "&cEste juego no se puede iniciar."
   }
 }
