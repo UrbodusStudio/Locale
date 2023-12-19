@@ -152,6 +152,7 @@
     "game.unfrozen": "&6El juego ha sido descongelado.",
     "please.set.backup": "&cPor favor configure la ruta de respaldo del mapa",
     "map.selected": "&e{%map} &afue seleccionado como &eMapa&a",
-    "you.have.voted.map": "&aVotaste por el mapa &e{%map}"
+    "you.have.voted.map": "&aVotaste por el mapa &e{%map}",
+    "chests.filled": "&6¡Los cofres fueron rellenados!"
   }
 }
