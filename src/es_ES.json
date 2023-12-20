@@ -156,6 +156,7 @@
     "chests.filled": "&6¡Los cofres fueron rellenados!",
     "game.does.not.exits": "&cEse juego no existe.",
     "you.are.not.playing": "&cNo estas jugando.",
-    "can.not.start.game": "&cEste juego no se puede iniciar."
+    "can.not.start.game": "&cEste juego no se puede iniciar.",
+    "assistant": "&e+1 de asistencia por intentar matar a {%playerName}"
   }
 }
