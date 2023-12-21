@@ -161,7 +161,7 @@
     "you.have.voted.map": "&aVotaste por el mapa &e{%map}",
     "map.title": "VOTA POR EL MAPA",
     "map.description": "Vota por el mapa que quieras jugar.",
-    "modifier.selected": "&l&6{%modifier} &bfue seleccionado como &6Modificador",
+    "modifier.selected": "&6{%modifier} &bfue seleccionado como &6Modificador",
     "you.have.voted.modifier": "&aVotaste por el modificador &e{%modifier}",
     "modifier.title": "VOTA POR EL MODIFICADOR",
     "modifier.description": "Vota por el modificador que quieras que tengan los jugadores a lo largo del juego.",
