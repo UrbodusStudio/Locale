@@ -177,5 +177,8 @@
     "you.have.voted.projectiles": "&aVotaste por el proyectil &e{%projectiles}",
     "projectiles.title": "VOTA POR LOS PROYECTILES",
     "projectiles.description": "Vota por proyectiles que quieras a lo largo del juego."
+    "skywars.game.summary": "&c&lResumen del juego:\n &bTiempo jugado: &6{%timePlayed}\n&bAsesinatos: &6{%kills}\n&bAsistencias: &6{%assists}\n",
+    "vote.is.over": "&cLa votación ha terminado.",
+    "top.killers": "&a&lTOP 3 ASESINOS:\n &c#1 - {%firstPlayerName} &b- &e{%firstPlayerPoints}\n &6#2 - {%secondPlayerName} &b- &e{%secondPlayerPoints}\n &a#3 - {%thirdPlayerName} &b- &e{%thirdPlayerPoints}\n"
   }
 }
