@@ -180,7 +180,7 @@
     "citem.projectile.vote": "&r&6Vota por los proyectiles",
     "projectile.selected": "&l&6{%projectile} &bfue seleccionado como &6Proyectil",
     "you.have.voted.projectile": "&aVotaste por el proyectil &e{%projectile}",
-    "projectile.title": "VOTA POR LOS PROYECTILES",
-    "projectile.description": "Vota por la opción de proyectil que quieras a lo largo del juego."
+    "projectiles.title": "VOTA POR LOS PROYECTILES",
+    "projectiles.description": "Vota por proyectiles que quieras a lo largo del juego."
   }
 }
