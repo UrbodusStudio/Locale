@@ -178,8 +178,8 @@
     "citem.modifier.vote": "&r&6Vota por el modificador",
     "citem.time.vote": "&r&6Vota por el tiempo",
     "citem.projectiles.vote": "&r&6Vota por los proyectiles",
-    "projectiles.selected": "&l&6{%projectile} &bfue seleccionado como &6Proyectil",
-    "you.have.voted.projectiles": "&aVotaste por el proyectil &e{%projectile}",
+    "projectiles.selected": "&l&6{%projectiles} &bfue seleccionado como &6Proyectil",
+    "you.have.voted.projectiles": "&aVotaste por el proyectil &e{%projectiles}",
     "projectiles.title": "VOTA POR LOS PROYECTILES",
     "projectiles.description": "Vota por proyectiles que quieras a lo largo del juego."
   }
