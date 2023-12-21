@@ -152,12 +152,18 @@
     "game.is.not.frozen": "&cEl juego no está congelado.",
     "game.unfrozen": "&6El juego ha sido descongelado.",
     "please.set.backup": "&cPor favor configure la ruta de respaldo del mapa",
-    "map.selected": "&e{%map} &afue seleccionado como &eMapa&a",
-    "you.have.voted.map": "&aVotaste por el mapa &e{%map}",
     "chests.filled": "&6¡Los cofres fueron rellenados!",
     "game.does.not.exits": "&cEse juego no existe.",
     "you.are.not.playing": "&cNo estas jugando.",
     "can.not.start.game": "&cEste juego no se puede iniciar.",
-    "assistant": "&e+1 de asistencia por intentar matar a {%playerName}"
+    "assistant": "&eAsististe para matar a {%playerName}",
+    "map.selected": "&l&6{%map} &bfue seleccionado como &6Mapa",
+    "you.have.voted.map": "&aVotaste por el mapa &e{%map}",
+    "modifier.selected": "&l&6{%modifier} &bfue seleccionado como &6Modificador",
+    "you.have.voted.modifier": "&aVotaste por el modificador &e{%modifier}",
+    "health.selected": "&l&6{%health} &bfue seleccionado como el numero de &6Vida",
+    "you.have.voted.health": "&aVotaste por tener la vida en &e{%health}",
+    "time.selected": "&l&6{%time} &bfue seleccionado el &6Tiempo",
+    "you.have.voted.time": "&aVotaste por el tiempo &e{%time}"
   }
 }
