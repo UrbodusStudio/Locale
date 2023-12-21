@@ -157,7 +157,7 @@
     "you.are.not.playing": "&cNo estas jugando.",
     "can.not.start.game": "&cEste juego no se puede iniciar.",
     "assistant": "&eAsististe para matar a {%playerName}",
-    "map.selected": "&l&6{%map} &bfue seleccionado como &6Mapa",
+    "map.selected": "&6{%map} &bfue seleccionado como &6Mapa",
     "you.have.voted.map": "&aVotaste por el mapa &e{%map}",
     "map.title": "VOTA POR EL MAPA",
     "map.description": "Vota por el mapa que quieras jugar.",
@@ -165,7 +165,7 @@
     "you.have.voted.modifier": "&aVotaste por el modificador &e{%modifier}",
     "modifier.title": "VOTA POR EL MODIFICADOR",
     "modifier.description": "Vota por el modificador que quieras que tengan los jugadores a lo largo del juego.",
-    "time.selected": "&l&6{%time} &bfue seleccionado el &6Tiempo",
+    "time.selected": "&6{%time} &bfue seleccionado el &6Tiempo",
     "you.have.voted.time": "&aVotaste por el tiempo &e{%time}",
     "time.title": "VOTA POR EL TIEMPO",
     "time.description": "Vota por el tiempo del mapa que quieras a lo largo del juego.",
@@ -173,12 +173,11 @@
     "citem.modifier.vote": "&r&6Vota por el modificador",
     "citem.time.vote": "&r&6Vota por el tiempo",
     "citem.projectiles.vote": "&r&6Vota por los proyectiles",
-    "projectiles.selected": "&l&6{%projectiles} &bfue seleccionado como &6Proyectil",
+    "projectiles.selected": "&6{%projectiles} &bfue seleccionado como &6Proyectil",
     "you.have.voted.projectiles": "&aVotaste por el proyectil &e{%projectiles}",
     "projectiles.title": "VOTA POR LOS PROYECTILES",
     "projectiles.description": "Vota por proyectiles que quieras a lo largo del juego.",
-    "skywars.game.summary": "&c&lResumen del juego:\n &bTiempo jugado: &6{%timePlayed}\n&bAsesinatos: &6{%kills}\n&bAsistencias: &6{%assists}\n",
-    "vote.is.over": "&cLa votación ha terminado.",
-    "top.killers": "&a&lTOP 3 ASESINOS:\n &c#1 - {%1_player_name} &b- &e{%1_player_points}\n &6#2 - {%2_player_name} &b- &e{%2_player_points}\n &a#3 - {%3_player_name} &b- &e{%3_player_points}"
+    "skywars.game.summary": "&a&lResumen del juego:&r\n &bTiempo jugado: &6{%timePlayed}\n&bAsesinatos: &6{%kills}\n&bAsistencias: &6{%assists}\n",
+    "vote.is.over": "&cLa votación ha terminado."
   }
 }
