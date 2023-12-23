@@ -133,7 +133,7 @@
     "added.to.setup": "&aToca un bloque para agregar/configurar",
     "you.are.now.spectator": "&6Ahora eres espectador",
     "player.died": " {%playerName} &7murió ({%players}/{%maxPlayers})",
-    "player.killed.by": " {%killed} &cfue asesinada por {%killer} &7({%players}/{%maxPlayers})",
+    "player.killed.by": " {%killed} &cfue asesinado por {%killer} &7({%players}/{%maxPlayers})",
     "get.ready": "&l&bPREPARARSE",
     "time": "{%time}",
     "go": "&l&c¡VAMOS!",
