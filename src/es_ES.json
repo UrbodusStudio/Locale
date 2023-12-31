@@ -181,6 +181,6 @@
     "vote.is.over": "&cLa votación ha terminado.",
     "citem.kit.selector": "&r&aSelector de kits",
     "citem.radar": "&r&2&lRadar",
-    "nearest.player": "&aEl jugador más cercano es &e{%playerName}&a, está a &e{%distance} &abloques de ti."
+    "nearest.player": "&e{%playerName}&a está a &e{%distance} &abloques"
   }
 }
