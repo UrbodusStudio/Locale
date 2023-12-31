@@ -4,7 +4,7 @@
     "welcome.message": " &a¡Bienvenido {%playerName} &r&a!\n\n &9https://discord.gg/V4EXqf24JM\n \n &6store.nextcraft.net\n \n &r@NextCraftGames\n\n&7Usa el 'Nagevador' o los NPC para entrar a un juego.",
     "welcome.subtitle": "{%playerName}",
     "welcome.title": "&fBienvenido de nuevo§m§a",
-    "playing.in": "&l&aESTÁS JUGANDO EN §sNEXTCRAFT.DDNS.NET",
+    "playing.in": "&l&aESTÁS JUGANDO EN {%color}NEXTCRAFT.DDNS.NET",
     "announce.1": " &a¡Asegúrate de seguirnos en &bTwitter/X &apara recibir noticias y obsequios! &d&o@NextCraftGames",
     "announce.2": " &a¿Busca nuestro servidor de Discord? Está en &9&ohttps://discord.gg/V4EXqf24JM",
     "announce.3": " &a¿Ves a un jugador rompiendo nuestras reglas? Denúncialos usando &6/report &ao envía tu evidencia a &6#report-player &aen nuestro servidor de Discord, &9&ohttps://discord.gg/V4EXqf24JM",
