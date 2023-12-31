@@ -14,7 +14,7 @@
     "announce.7": " &aManténgase al tanto con las últimas noticias y actualizaciones en la red, únase a Discord en &9&ohttps://discord.gg/V4EXqf24JM",
     "announce.8": " &a¿Sabías que NextCraft tiene un XP global x2 durante los fines de semana?",
     "announce.9": " &a¿Quieres apoyar a NextCraft? ¡Compre un rango hoy en &d&ostore.nextcraft.net&a!",
-    "player.level.up": "\n&e===================================\n \n&a¡SUBIDA DE NIVEL!\n&b¡Has alcanzado el nivel &6{%level}&b!\n \n&e===================================\n",
+    "player.level.up": "\n&e------------------------------\n \n&a¡SUBIDA DE NIVEL!\n&b¡Has alcanzado el nivel &6{%level}&b!\n \n&e------------------------------\n",
     "years": "Años",
     "months": "Meses",
     "days": "Dias",
@@ -177,7 +177,7 @@
     "you.have.voted.projectiles": "&3Votaste por el proyectil &a{%projectiles}",
     "projectiles.title": "VOTA POR LOS PROYECTILES",
     "projectiles.description": "Vota por proyectiles que quieras a lo largo del juego.",
-    "skywars.game.summary": "\n&e===================================\n \n&3&lResumen del juego:&r\n&cTiempo jugado: &6{%timePlayed}\n&cAsesinatos: &6{%kills}\n&cAsistencias: &6{%assists}\n&cFlechas disparadas: &6{%arrowsShot}\n&cFlechas acertadas: &6{%arrowsHit}\n&cPrecisión: &6{%accuracy}%\n \n&e===================================\n",
+    "skywars.game.summary": "\n&e------------------------------\n \n&3&lResumen del juego:&r\n&cTiempo jugado: &6{%timePlayed}\n&cAsesinatos: &6{%kills}\n&cAsistencias: &6{%assists}\n&cFlechas disparadas: &6{%arrowsShot}\n&cFlechas acertadas: &6{%arrowsHit}\n&cPrecisión: &6{%accuracy}%\n \n&e------------------------------\n",
     "vote.is.over": "&cLa votación ha terminado."
   }
 }
