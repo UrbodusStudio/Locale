@@ -178,6 +178,7 @@
     "projectiles.title": "VOTA POR LOS PROYECTILES",
     "projectiles.description": "Vota por proyectiles que quieras a lo largo del juego.",
     "skywars.game.summary": "\n&e------------------------------\n&4- &cTiempo jugado: &6{%timePlayed}\n&4- &cAsesinatos: &6{%kills}\n&4- &cAsistencias: &6{%assists}\n&4- &cFlechas disparadas: &6{%arrowsShot}\n&4- &cFlechas acertadas: &6{%arrowsHit}\n&4- &cPrecisión: &6{%accuracy}\n&e------------------------------\n",
-    "vote.is.over": "&cLa votación ha terminado."
+    "vote.is.over": "&cLa votación ha terminado.",
+    "citem.kit.selector": "&r&aSelector de kits"
   }
 }
