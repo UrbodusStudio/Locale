@@ -188,6 +188,6 @@
     "collectibles.description": "Los coleccionables son cosmeticos/gadgets o cosas unicas para los juegos que puedes 'coleccionar' como su nombre lo indica, ya sea comprándolas, encontrándolas en cajas o jugando.",
     "tag.added": "&a¡Se agregó la etiqueta {%tag}&r&a!",
     "tag.removed": "&c¡Se removió la etiqueta {%tag}&r&a!",
-    "selected": "&2&lSELECCIONADO"
+    "tags.reached.limit": "&a¡Solo puedes tener &c{%limit} &aetiquetas activas!"
   }
 }
