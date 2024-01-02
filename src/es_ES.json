@@ -183,6 +183,8 @@
     "vote.is.over": "&cLa votación ha terminado.",
     "citem.kit.selector": "&r&aSelector de kits",
     "citem.radar": "&r&2&lRadar",
-    "nearest.player": "&e{%playerName}&a está a &e{%distance} &abloques"
+    "nearest.player": "&e{%playerName}&a está a &e{%distance} &abloques",
+    "collectibles.title": "COLECCIONABLES",
+    "collectibles.description": "Los coleccionables son cosmeticos/gadgets o cosas unicas para los juegos que puedes 'coleccionar' como su nombre lo indica, ya sea comprándolas, encontrándolas en cajas o jugando."
   }
 }
