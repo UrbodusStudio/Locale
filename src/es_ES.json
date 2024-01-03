@@ -191,6 +191,6 @@
     "tags.reached.limit": "&c¡Solo puedes tener {%limit} etiquetas activas!",
     "you.have.already.voted": "&c¡Ya votaste!",
     "leaderboard.not.found": "&c&lTabla de clasificación '{%leaderboard}' NO ENCONTRADA",
-    "opens.cage.in": "§aAbriendo Jaulas en {%startTime}"
+    "opens.cage.in": "§aCayendo en: {%startTime}"
   }
 }
