@@ -84,7 +84,7 @@
     "connection.description": "&rEn linea: {%online}\n&rPrimera conexion: &b{%firstEntry}\n&rUltima desconexión: &b{%lastLogout}\n&rUltimo servidor: &e{%lastServer}",
     "rankData": "Rango",
     "rankData.title": "Datos de rango de {%playerName}",
-    "rankData.description": "&rRango: {%rank}\n&rExpiración: {%expiry}",
+    "rankData.description": "&rRango: {%rank}\n&rExpiración: &c{%expiry}",
     "never": "&cNunca",
     "none": "&cNinguno",
     "yes": "&aSi",
