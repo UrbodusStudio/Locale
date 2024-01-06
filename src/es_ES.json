@@ -195,6 +195,7 @@
     "cage.selected": "&a¡Has seleccionado la jaula &e{%cageName}&a!",
     "kits.title": "KITS",
     "kits.description": "",
-    "kit.selected": "&a¡Has seleccionado el kit &e{%kitName}&a!"
+    "kit.selected": "&a¡Has seleccionado el kit &e{%kitName}&a!",
+    "kit.already.selected": "&c¡Ya tienes ese kit seleccionado!"
   }
 }
