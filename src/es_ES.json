@@ -196,6 +196,7 @@
     "kits.title": "KITS",
     "kits.description": "",
     "kit.selected": "&a¡Has seleccionado el kit &e{%kitName}&a!",
-    "kit.already.selected": "&c¡Ya tienes ese kit seleccionado!"
+    "kit.already.selected": "&c¡Ya tienes ese kit seleccionado!",
+    "beta": "&l&6» BETA »"
   }
 }
