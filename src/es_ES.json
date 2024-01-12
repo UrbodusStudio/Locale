@@ -206,6 +206,7 @@
     "collectible.purchase.description": "&f¿Quieres comprar el objeto collecionable {%collectibleName}&r&f por &e${%price}&f monedas?",
     "confirm": "&2&lCONFIRMAR",
     "cancel": "&c&lCANCELAR",
-    "collectible.acquired": "&a¡Has adquirido el objeto coleccionable {%collectibleName}&a!"
+    "collectible.acquired": "&a¡Has adquirido el objeto coleccionable {%collectibleName}&a!",
+    "no.enough.coins": "&cNo tienes suficientes monedas, necesitas ${%dif} más"
   }
 }
