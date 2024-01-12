@@ -201,6 +201,6 @@
     "kit.preview": "&3{%kitName}\n&cPrevizualizar",
     "kit.preview.title": "Vista previa del kit {%kitName}",
     "cage.selected": "&3{%cageName}\n&2Seleccionado",
-    "collectible.get.it": "{%collectibleName}\n&l&6¡Consíguelo!"
+    "collectible.get.it": "{%collectibleName}\n&r&6¡Consíguelo!"
   }
 }
