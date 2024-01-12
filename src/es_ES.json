@@ -203,8 +203,9 @@
     "cage.selected": "&3{%cageName}\n&2Seleccionado",
     "collectible.get.it": "{%collectibleName}\n&r&6¡Consíguelo!",
     "collectible.purchase.title": "Menú de compra de collecionable",
-    "collectible.purchase.description": "&f¿Quieres comprar el collecionable {%collectibleName}&r&f por &e${%price}&f monedas?",
+    "collectible.purchase.description": "&f¿Quieres comprar el objeto collecionable {%collectibleName}&r&f por &e${%price}&f monedas?",
     "confirm": "&2&lCONFIRMAR",
-    "cancel": "&c&lCANCELAR"
+    "cancel": "&c&lCANCELAR",
+    "collectible.acquired": "&a¡Has adquirido el objeto coleccionable {%collectibleName}&a!"
   }
 }
