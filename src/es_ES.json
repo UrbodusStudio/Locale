@@ -146,7 +146,7 @@
     "citem.return.to.lobby": "&r&cRegresar al vestíbulo",
     "citem.play.again": "&r&aJuega de nuevo",
     "map.by.title": "&9Mapa por",
-    "map.by.subtitle": "&e{%author}"
+    "map.by.subtitle": "&e{%author}",
     "empty": "&c¡Vacio!",
     "next.refill": "§sRelleno en: &f{%refillTime}",
     "game.skipped": "&cEl juego pasó a la siguiente fase.",
