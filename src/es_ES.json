@@ -145,7 +145,7 @@
     "deaths": "§sMuertes: &f{%deaths}",
     "citem.return.to.lobby": "&r&cRegresar al vestíbulo",
     "citem.play.again": "&r&aJuega de nuevo",
-    "map.by.title": "&9Mapa por",
+    "map.by.title": "&bMapa hecho por",
     "map.by.subtitle": "&e{%author}",
     "empty": "&c¡Vacio!",
     "next.refill": "§sRelleno en: &f{%refillTime}",
