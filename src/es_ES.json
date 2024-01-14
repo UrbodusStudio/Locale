@@ -164,7 +164,7 @@
     "player.have.voted.modifier": "&l&6»&r &3¡{%playerName} &3voto por el modificador &b{%modifier} &3y ahora tiene &f{%votes} &3votos!",
     "player.have.voted.time": "&l&6»&r &3¡{%playerName} &3voto por el tiempo &b{%time} &3y ahora tiene &f{%votes} &3votos!",
     "player.have.voted.projectiles": "&l&6»&r &3¡{%playerName} &3voto por el proyectil &b{%projectiles} &7y ahora tiene &f{%votes} &3votos!",
-    "voting.end": "\n&e------------------------------\n&l&aTerminaron las votaciones\n \n&c- &bMapa: &6{%mapName}\n&c- &bModificador: &6{%modifier}\n&c- &bTiempo: &6{%time}\n&c- &bProyectiles: &6{%projectiles}\n&e------------------------------\n",
+    "skywars.voting.end": "\n&e------------------------------\n&l&aTerminaron las votaciones\n \n&r&c- &bModificador: &6{%modifier}\n&c- &bTiempo: &6{%time}\n&c- &bProyectiles: &6{%projectiles}\n&e------------------------------\n",
     "map.title": "Vota por el mapa",
     "map.description": "Vota por el mapa que quieras jugar.",
     "modifier.title": "Vota por el modificador",
