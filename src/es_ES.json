@@ -210,6 +210,7 @@
     "collectible.acquired": "&a¡Has adquirido el objeto coleccionable {%collectibleName}&r&a de la categoria &e{%category}&a!",
     "no.enough.coins": "&cNo tienes suficientes monedas, necesitas ${%diff} más",
     "only.vips": "&cEsto es sólo para rangos VIPS. Cómpralo en &bhttps://www.patreon.com/nextcraft/shop",
-    "size.selected": "&a¡Has seleccionado el tamaño &e{%size}&a!"
+    "size.selected": "&a¡Has seleccionado el tamaño &e{%size}&a!",
+    "win.effect.has.selected": "&a¡Has seleccionado el efecto de victoria &e{%winEffectName}&a!"
   }
 }
