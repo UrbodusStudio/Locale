@@ -212,6 +212,7 @@
     "win.effect.has.selected": "&a¡Has seleccionado el efecto de victoria &e{%winEffectName}&a!",
     "player.rekt": "{%killed} &eha sido &l&6#rekt&r&e por {%killer} &eaqui",
     "father.cigarettes": "&f&lHijo, iré a por cigarrillos, volveré en un rato.",
-    "kill.effect.has.selected": "&a¡Has seleccionado el efecto de asesinato &e{%killEffectName}&a!"
+    "kill.effect.has.selected": "&a¡Has seleccionado el efecto de asesinato &e{%killEffectName}&a!",
+    "projectile.trail.has.selected": "&a¡Has seleccionado el rastro de proyectil &e{%projectileTrailName}&a!"
   }
 }
