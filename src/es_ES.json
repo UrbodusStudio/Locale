@@ -209,6 +209,7 @@
     "no.enough.coins": "&cNo tienes suficientes monedas, necesitas ${%diff} más",
     "only.vips": "&cEsto es sólo para rangos VIPS. Cómpralo en &bhttps://www.patreon.com/nextcraft/shop",
     "size.selected": "&a¡Has seleccionado el tamaño &e{%size}&a!",
-    "win.effect.has.selected": "&a¡Has seleccionado el efecto de victoria &e{%winEffectName}&a!"
+    "win.effect.has.selected": "&a¡Has seleccionado el efecto de victoria &e{%winEffectName}&a!",
+    "player.rekt": "{%killed} &eha sido &l&6#rekt&r&e por {%killer} &eaqui"
   }
 }
