@@ -195,7 +195,7 @@
     "kits.description": "",
     "kit.selected": "&a¡Has seleccionado el kit &e{%kitName}&a!",
     "kit.already.selected": "&c¡Ya tienes ese kit seleccionado!",
-    "beta": "&l&6» BETA »",
+    "beta": "&l&5» BETA «",
     "kit.preview": "&3{%kitName}\n&cPrevizualizar",
     "kit.preview.title": "Vista previa del kit {%kitName}",
     "collectible.selected": "&3{%collectibleName}\n&2Seleccionado",
