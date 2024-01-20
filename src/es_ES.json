@@ -221,6 +221,7 @@
     "random.map": "&2Mapa aleatorio",
     "citem.spectate": "&r&aEspectar",
     "spectate.title": "Ver un jugador",
-    "spectate.description": ""
+    "spectate.description": "",
+    "spectating": "&aEstás viendo {%target}"
   }
 }
