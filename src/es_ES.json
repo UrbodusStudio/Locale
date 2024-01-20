@@ -218,6 +218,9 @@
     "invincibility.time": "&cLa Invencibilidad se ira en &e{%time}&c segundos",
     "play.again.title": "Jugar de nuevo?",
     "play.again.description": "",
-    "random.map": "&2Mapa aleatorio"
+    "random.map": "&2Mapa aleatorio",
+    "citem.spectate": "&r&aEspectar",
+    "spectate.title": "Ver un jugador",
+    "spectate.description": ""
   }
 }
