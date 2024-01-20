@@ -213,6 +213,7 @@
     "player.rekt": "{%killed} &eha sido &l&6#rekt&r&e por {%killer} &eaqui",
     "father.cigarettes": "&f&lEl padre de &r{%playerName}&r&f&l fue por cigarrillos",
     "kill.effect.has.selected": "&a¡Has seleccionado el efecto de asesinato &e{%killEffectName}&a!",
-    "projectile.trail.has.selected": "&a¡Has seleccionado el rastro de proyectil &e{%projectileTrailName}&a!"
+    "projectile.trail.has.selected": "&a¡Has seleccionado el rastro de proyectil &e{%projectileTrailName}&a!",
+    "you.lost": "&c&lPERDISTE"
   }
 }
