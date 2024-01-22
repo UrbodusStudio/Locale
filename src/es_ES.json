@@ -215,7 +215,7 @@
     "citem.spectate": "&r&aEspectar",
     "spectate.title": "Ver un jugador",
     "spectate.description": "",
-    "spectating": "&aEstás viendo {%target}",
+    "spectating": "&aEstás viendo a {%target}",
     "not.authorized.command": "&cNo estás autorizado a ejecutar este comando",
     "purchase": "&2&lCOMPRAR",
     "preview": "&l&6PRREVISUALIZAR"
