@@ -217,6 +217,7 @@
     "spectating": "&aEstás viendo a {%target}",
     "not.authorized.command": "&cNo estás autorizado a ejecutar este comando",
     "purchase": "&2&lCOMPRAR",
-    "preview": "&l&6PRREVISUALIZAR"
+    "preview": "&l&6PRREVISUALIZAR",
+    "you.have.joined.game": "&eEntraste al mapa &a{%mapName}&e de la partida &a{%gameId}"
   }
 }
