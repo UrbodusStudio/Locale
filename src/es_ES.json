@@ -220,7 +220,7 @@
     "preview": "&l&6PRREVISUALIZAR",
     "match.found.sending.you.to": "&aPartida encontrada, enviandote a &e{%match}",
     "connecting.you.to.match": "&aConectandote a la partida &e{%match}",
-    "spawn.set": "&aEl spawn ha sido configurado correctamente en &bX: &e{%x}, &bY: &e{%y}, &bZ: &e{%z}, &bYAW: &e{%yaw}, &bPITCH: &e{%pitch}",
+    "spawn.set": "&aEl spawn ha sido configurado correctamente en &bWorld: &e{%worldName}, &bX: &e{%x}, &bY: &e{%y}, &bZ: &e{%z}, &bYAW: &e{%yaw}, &bPITCH: &e{%pitch}",
     "returning.to.spawn": "&7Regresando al spawn"
   }
 }
