@@ -218,6 +218,7 @@
     "not.authorized.command": "&cNo estás autorizado a ejecutar este comando",
     "purchase": "&2&lCOMPRAR",
     "preview": "&l&6PRREVISUALIZAR",
-    "match.found.sending.you.to": "&aPartida encontrada, enviandote a &e{%match}"
+    "match.found.sending.you.to": "&aPartida encontrada, enviandote a &e{%match}",
+    "connecting.to.match": "&aConectandote a la partida &e{%match}"
   }
 }
