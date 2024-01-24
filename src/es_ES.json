@@ -218,6 +218,6 @@
     "not.authorized.command": "&cNo estás autorizado a ejecutar este comando",
     "purchase": "&2&lCOMPRAR",
     "preview": "&l&6PRREVISUALIZAR",
-    "match.found.sending.you.to": "&aPartida encontrada, enviandote a &e{%gameId}"
+    "match.found.sending.you.to": "&aPartida encontrada, enviandote a &e{%match}"
   }
 }
