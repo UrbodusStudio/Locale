@@ -1,7 +1,7 @@
 {
   "contributors": ["Josscoder"],
   "translations": {
-    "welcome.message": " &a¡Bienvenido {%playerName} &r&a!\n\n &9https://discord.gg/V4EXqf24JM\n \n &6https://www.patreon.com/nextcraft/shop\n \n &r@NextCraftGames\n\n&7Usa el 'Nagevador' o los NPC para entrar a un juego.",
+    "welcome.message": " &a¡Bienvenido {%playerName} &r&a!\n\n &9https://discord.gg/V4EXqf24JM\n \n &6https://www.patreon.com/nextcraft/shop\n \n &r@NextCraftGames\n\n&7Usa el 'Navegador' o los NPC para entrar a un juego.",
     "welcome.subtitle": "{%playerName}",
     "welcome.title": "&fBienvenido de nuevo§m§a",
     "playing.in": "&l&aESTAS JUGANDO EN {%color}NEXTCRAFT.DDNS.NET",
@@ -36,7 +36,7 @@
     "tokens": "§sFichas: &a{%tokens} ",
     "increase": "{%color}+{%amount} {%type}",
     "decrease": "&c-{%amount} {%type}",
-    "main.hologram": " &l§9Next&6Craft&r \n \n&aBienvenido de nuevo, {%playerName}\n \n&a¡Hay &b{%onlinePlayers}&a jugadores en linea!\n \n&7Usa el 'Nagevador' o los NPC para entrar a un juego\n \n \n&6nextcraft.ddns.net",
+    "main.hologram": " &l§9Next&6Craft&r \n \n&aBienvenido de nuevo, {%playerName}\n \n&a¡Hay &b{%onlinePlayers}&a jugadores en linea!\n \n&7Usa el 'Navegador' o los NPC para entrar a un juego\n \n \n&6nextcraft.ddns.net",
     "click.to.play": "&a&lCLIC PARA JUGAR",
     "playing": "&3{%playing} Jugadores",
     "offline": "&4FUERA DE LINEA",
