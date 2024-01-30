@@ -1,0 +1,24 @@
+{
+  "contributors": [
+    "Josscoder"
+  ],
+  "translations": {
+    "welcome.message": " &a¡Bienvenido {%playerName} &r&a!\n\n &9https://discord.gg/V4EXqf24JM\n \n &6https://www.patreon.com/nextcraft/shop\n \n &r@NextCraftGames\n\n&7Usa el 'Navegador' o los NPC para entrar a un juego.",
+    "rank": "§sRango: {%rank}",
+    "level": "§sNivel: &a{%level} ",
+    "coins": "§sMonedas: &a{%coins} ",
+    "crates": "§sCajas: &a{%crates} ",
+    "tokens": "§sFichas: &a{%tokens} ",
+    "experience": "§sXP: &a{%experience} ",
+    "main.hologram": " &l§9Next&6Craft&r \n \n&aBienvenido de nuevo, {%playerName}\n \n&a¡Hay &b{%onlinePlayers}&a jugadores en linea!\n \n&7Usa el 'Navegador' o los NPC para entrar a un juego\n \n \n&6nextcraft.ddns.net",
+    "hosting.hologram": " &6¿Busca hosting para su servidor? \n \n&bTu búsqueda termina aquí\n&ben &dnether-hosting.com&b, ¡tu mejor opción!\n&bOfrecemos servicios de &bhosting\n&bpara Minecraft, VPS y mucho más.\n&bExplore nuestras &bopciones hoy.",
+    "ranks.hologram": " &a¿Buscas &a u otros rangos? \n \n&aCompre rangos en &dhttps://www.patreon.com/nextcraft/shop\n \n&a¿Buscar rangos de creador de contenido?\n&aConsulta en el discord &9https://discord.gg/V4EXqf24JM",
+    "click.to.play": "&a&lCLIC PARA JUGAR",
+    "citem.collectibles": "&r&aColeccionables",
+    "citem.social": "&r&aSocial",
+    "citem.egg.launcher": "&r&6Lanzador de huevos",
+    "citem.rules": "&r&aReglas",
+    "rank.will.expire": " &cTu rango caducará en {%expiry}",
+    "beta": "&l&5» BETA «"
+  }
+}
