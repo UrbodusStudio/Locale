@@ -81,7 +81,6 @@
     "spectating": "&aEstás viendo a {%target}",
     "purchase": "&2&lCOMPRAR",
     "preview": "&l&6PRREVISUALIZAR",
-    "match.found.sending.you.to": "&aPartida encontrada, enviandote a &e{%match}",
     "connecting.you.to.match": "&aConectandote a la partida &e{%match}"
   }
 }
