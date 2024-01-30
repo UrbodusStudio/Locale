@@ -3,7 +3,7 @@
     "Josscoder"
   ],
   "translations": {
-    "no.games.available": "&cNo hay juegos disponibles",
+    "match.no.available": "&cLa partida no esta disponible",
     "no.teams.available": "&cNo hay equipos disponibles",
     "game.join": " &3¡{%playerName}&3 entró al juego &a({%players}/{%maxPlayers})&3!",
     "game.quit": " &c¡{%playerName}&c dejó el juego &c({%players}/{%maxPlayers})&c!",
@@ -74,13 +74,15 @@
     "invincibility.time": "&cLa invencibilidad se ira en &e{%time}&c segundos",
     "play.again.title": "Jugar de nuevo?",
     "play.again.description": "",
-    "random.map": "&2Mapa aleatorio",
+    "random.match": "&2Partida aleatoria",
     "citem.spectate": "&r&aEspectar",
     "spectate.title": "Ver un jugador",
     "spectate.description": "",
     "spectating": "&aEstás viendo a {%target}",
     "purchase": "&2&lCOMPRAR",
     "preview": "&l&6PRREVISUALIZAR",
-    "connecting.you.to.match": "&aConectandote a la partida &e{%match}"
+    "connecting.you.to.match": "&aConectandote a la partida &e{%match}",
+    "error.connecting.to.match": "&cError al conectar al juego, inténtalo de nuevo",
+    "already.in.this.match": "&c¡Ya estas en este juego!"
   }
 }
