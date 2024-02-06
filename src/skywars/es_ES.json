@@ -3,8 +3,15 @@
     "Josscoder"
   ],
   "translations": {
-    "skywars.game.summary": "\n&e------------------------------\n&4- &cTiempo jugado: &6{%timePlayed}\n&4- &cAsesinatos: &6{%kills}\n&4- &cAsistencias: &6{%assists}\n&4- &cFlechas disparadas: &6{%arrowsShot}\n&4- &cFlechas acertadas: &6{%arrowsHit}\n&4- &cPrecisión: &6{%accuracy}\n&e------------------------------\n",
     "skywars.voting.end": "\n&e------------------------------\n&l&aResultados de las votaciones\n \n&r&c- &bModificador: &6{%modifier}\n&c- &bTiempo: &6{%time}\n&c- &bProyectiles: &6{%projectiles}\n&e------------------------------\n",
-    "skywars.game.description": "\n&e------------------------------\n \n&l&aSkywars es un juego multijugador en el que los jugadores se enfrentan entre sí en islas flotantes.\n &aEl objetivo es ser el último jugador vivo.\n \n&e------------------------------\n"
+    "skywars.game.description": "&eSkyWars es un juego multijugador \n&een el que los jugadores se enfrentan entre sí \n&een islas flotantes. El objetivo es ser\n &eel último jugador vivo",
+    "skywars.game.summary": "&a&lResumen del juego&r",
+    "skywars.kills": "Asesinatos",
+    "skywars.time.played": "Tiempo jugado",
+    "skywars.assists": "Asistencias",
+    "skywars.arrows.shot": "Flechas disparadas",
+    "skywars.arrows.hit": "Flechas acertadas",
+    "skywars.accuracy": "Precisión",
+    "skywars.rewards.summary": "&a&lResumen de recompensas&r"
   }
 }
