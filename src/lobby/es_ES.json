@@ -21,6 +21,7 @@
     "rank.will.expire": " &cTu rango caducará en {%expiry}",
     "beta": "&l&5» BETA «",
     "update.v0.0.3-beta": "&d&lUPDATE v0.0.3-beta 17/03/24",
-    "citem.updates": "&r&aActualizaciones"
+    "citem.updates": "&r&aActualizaciones",
+    "citem.lobby.selector": "&r&aSelector de Vestibulo"
   }
 }
