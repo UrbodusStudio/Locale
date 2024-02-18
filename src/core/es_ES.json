@@ -117,6 +117,9 @@
     "projectile.trail.has.selected": "&a¡Has seleccionado el rastro de proyectil &e{%projectileTrailName}&a!",
     "not.authorized.command": "&cNo estás autorizado a ejecutar este comando",
     "spawn.set": "&aEl spawn ha sido configurado correctamente en &bWorld: &e{%worldName}, &bX: &e{%x}, &bY: &e{%y}, &bZ: &e{%z}, &bYAW: &e{%yaw}, &bPITCH: &e{%pitch}",
-    "returning.to.spawn": "&7Regresando al spawn"
+    "returning.to.spawn": "&7Regresando al spawn",
+    "lobby.selector.title": "Selector de Vestibulo",
+    "lobby.selector.description": "",
+    "already.in.server": "&cYa estas aqui"
   }
 }
