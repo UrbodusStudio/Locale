@@ -1,5 +1,5 @@
 {
-    "name": "nextcraft/locale",
+    "name": "urbodus/locale",
     "description": "Locale is the module that provides all the translations",
     "type": "library",
     "autoload": {
