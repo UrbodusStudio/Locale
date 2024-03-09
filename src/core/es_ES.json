@@ -119,6 +119,8 @@
     "spawn.set": "&aEl spawn ha sido configurado correctamente en &bWorld: &e{%worldName}, &bX: &e{%x}, &bY: &e{%y}, &bZ: &e{%z}, &bYAW: &e{%yaw}, &bPITCH: &e{%pitch}",
     "lobby.selector.title": "Selector de Vestibulo",
     "lobby.selector.description": "",
-    "already.in.server": "&cYa estas aqui"
+    "already.in.server": "&cYa estas aqui",
+    "world.protect.level.doest.not.exist": "&cEse tipo de proteccion de mundo no existe",
+    "set.world.protect.to.level": "&aSe ha establecido la proteccion &6{%worldProtectType}&a para el mundo &6{%worldName}"
   }
 }
