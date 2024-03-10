@@ -25,6 +25,7 @@
     "mystery.crate": "&d&lCaja Misteriosa",
     "your.mystery.crates": "&f¡{%crates} disponibles!",
     "open.mystery.crate.title": "¿Quieres comprar una caja misteriosa?",
-    "open.mystery.crate.description": "Podrías conseguir coleccionables exclusivos o monedas"
+    "open.mystery.crate.description": "Podrías conseguir coleccionables exclusivos o monedas",
+    "no.mystery.crates": "&c¡No tienes cajas misteriosas!"
   }
 }
