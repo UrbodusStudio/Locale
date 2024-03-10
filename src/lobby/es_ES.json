@@ -23,6 +23,8 @@
     "citem.updates": "&r&aActualizaciones",
     "citem.lobby.selector": "&r&aSelector de Vestibulo",
     "mystery.crate": "&d&lCaja Misteriosa",
-    "your.mystery.crates": "&f¡{%crates} disponibles!"
+    "your.mystery.crates": "&f¡{%crates} disponibles!",
+    "open.mystery.crate.title": "¿Quieres comprar una caja misteriosa?",
+    "open.mystery.crate.description": "Podrías conseguir coleccionables exclusivos o monedas"
   }
 }
