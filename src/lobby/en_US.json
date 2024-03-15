@@ -1,0 +1,30 @@
+{
+    "contributors": ["Josscoder", "Bareww"],
+    "translations": {
+      "welcome.message": " &a¡Welcome {%playerName} &r&a!\n\n &9urbodus.com/discord\n \n &6urbodus.com/store\n \n &r@UrbodusOfficial\n\n&7Use the 'Navigator' or NPC for join the game",
+      "rank": "§sRank: {%rank}",
+      "level": "§sLevel: &a{%level} ",
+      "coins": "§sCoins: &a{%coins} ",
+      "crates": "§sCrates: &a{%crates} ",
+      "tokens": "§sTokens: &a{%tokens} ",
+      "experience": "§sXP: &a{%experience} ",
+      "main.hologram": " &l§6Urbodus&r \n \n&aWelcome again, {%playerName}\n \n&aThere are &b{%onlinePlayers}&a players online!\n \n&7Use the 'Navigator' or NPC for join the game\n \n \n&6play.urbodus.com",
+      "hosting.hologram": " &6¿Busca hosting para su servidor? \n \n&bTu búsqueda termina aquí\n&ben &dnether-hosting.com&b, ¡tu mejor opción!\n&bOfrecemos servicios de &bhosting\n&bpara Minecraft, VPS y mucho más.\n&bExplore nuestras &bopciones hoy.",
+      "ranks.hologram": " &a¿Buscas &a u otros rangos? \n \n&aCompre rangos en &durbodus.com/store\n \n&a¿Buscar rangos de creador de contenido?\n&aConsulta en el discord &9urbodus.com/discord",
+      "click.to.play": "&a&lCLIC PARA JUGAR",
+      "citem.collectibles": "&r&aColeccionables",
+      "citem.social": "&r&aSocial",
+      "citem.egg.launcher": "&r&6Lanzador de huevos",
+      "rank.will.expire": " &cTu rango caducará en {%expiry}",
+      "beta": "&l&5» BETA «",
+      "update.v0.0.3-beta": "&d&lActualizacion\nv0.0.3-beta\n22/02/24\n \n&r- Cambiamos de nombre a &c&lURBODUS\n&r- Implementamos un nuevo Lobby Principal\n&r- Añadimos multi vestibulos\n&r- Estamos trabajando en una actulizacion de juegos y contenido para el lobby...",
+      "citem.updates": "&r&aActualizaciones",
+      "citem.lobby.selector": "&r&aSelector de Vestibulo",
+      "mystery.crate": "&d&lCaja Misteriosa",
+      "your.mystery.crates": "&f¡{%crates} disponibles!",
+      "open.mystery.crate.title": "¿Quieres comprar una caja misteriosa?",
+      "open.mystery.crate.description": "Podrías conseguir coleccionables exclusivos o monedas",
+      "no.mystery.crates": "&c¡No tienes cajas misteriosas!"
+    }
+  }
+  
