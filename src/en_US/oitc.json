@@ -1,0 +1,14 @@
+{
+      "contributors": ["Josscoder", "Bareww"],
+      "translations": {
+        "oitc.game.description": "&eOne In The Chamber is an intense combat mode, where precision and strategy are key. Prepare to shoot and dodge in this exciting mini-game!",
+        "oitc.game.summary": "&a&lGame summary&r",
+        "oitc.kills": "Kills",
+        "oitc.time.played": "Time played",
+        "oitc.arrows.shot": "Arrows shot",
+        "oitc.arrows.hit": "Arrows hit",
+        "oitc.accuracy": "Accuracy",
+        "oitc.rewards.summary": "&a&lRewards summary&r"
+      }
+    }
+    
