@@ -1,0 +1,29 @@
+{
+    "contributors": ["Josscoder", "Bareww"],
+    "translations": {
+      "welcome.message": " &a¡Welcome {%playerName} &r&a!\n\n &9urbodus.com/discord\n \n &6urbodus.com/store\n \n &r@UrbodusOfficial\n\n&7Use the 'Navigator' or NPC for join the game",
+      "rank": "§sRank: {%rank}",
+      "level": "§sLevel: &a{%level} ",
+      "coins": "§sCoins: &a{%coins} ",
+      "crates": "§sCrates: &a{%crates} ",
+      "tokens": "§sTokens: &a{%tokens} ",
+      "experience": "§sXP: &a{%experience} ",
+      "main.hologram": " &l§6Urbodus&r \n \n&aWelcome again, {%playerName}\n \n&aThere are &b{%onlinePlayers}&a players online!\n \n&7Use the 'Navigator' or NPC for join the game\n \n \n&6play.urbodus.com",
+      "ranks.hologram": " &aAre you looking for &a or other ranks? \n \n&aShop ranks at &durbodus.com/store\n \n&aSearch content creator ranks?\n&aCheck the discord &9urbodus.com/discord",
+      "click.to.play": "&a&lCLICK TO PLAY",
+      "citem.collectibles": "&r&aCollectibles",
+      "citem.social": "&r&aSocial",
+      "citem.egg.launcher": "&r&6Egg launcher",
+      "rank.will.expire": " &cYour rank will expire in {%expiry}",
+      "beta": "&l&5» BETA «",
+      "update.v0.0.3-beta": "&d&lUpdate\nv0.0.3-beta\n22/02/24\n \n&r- We changed the name to &c&lURBODUS\n&r- We implemented a new Main Lobby\n&r- We add multiple lobbies\n&r- We are working on a game and lobby content update....",
+      "citem.updates": "&r&aUpdates",
+      "citem.lobby.selector": "&r&aLobby Selector",
+      "mystery.crate": "&d&lMystery Box",
+      "your.mystery.crates": "&f{%crates} availables!",
+      "open.mystery.crate.title": "Do you want to buy a mystery box?",
+      "open.mystery.crate.description": "You could get exclusive collectibles or coins",
+      "no.mystery.crates": "&cYou don't have mystery boxes!"
+    }
+  }
+  
