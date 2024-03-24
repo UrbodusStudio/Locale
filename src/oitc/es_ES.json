@@ -6,6 +6,7 @@
     "oitc.game.description": "&eOne In The Chamber es un modo de combate rapido e intenso,\n &edonde la precisión y la estrategia son fundamentales.\n &e¡Prepárate para disparar y esquivar\n &een este emocionante minijuego!",
     "oitc.game.summary": "&a&lResumen del juego&r",
     "oitc.kills": "Asesinatos",
+    "oitc.deaths": "Muertes",
     "oitc.time.played": "Tiempo jugado",
     "oitc.arrows.shot": "Flechas disparadas",
     "oitc.arrows.hit": "Flechas acertadas",
@@ -18,7 +19,7 @@
     "increase.kills": "&l&b+1 ASESINATO",
     "random.kill.message.1": "&d¡{%playerName} &des el rey de este juego con &f&l{%kills}&r&d asesinatos!",
     "random.kill.message.2": "&cA {%playerName} &cle dicen Mr. Masacres por sus &6{%kills}&c asesinatos",
-    "random.kill.message.3": "&aWow, a {%playerName}&aa tendrian que darle un premio, sus &e{%kills}&a no son gratis...",
+    "random.kill.message.3": "&aWow, a {%playerName}&a tendrian que darle un premio, sus &e{%kills}&a asesinatos no son gratis...",
     "random.kill.message.4": "&6¡Oye {%playerName} &6te reto a que hagas otros &f{%kills}&6 asesinatos más!"
   }
 }
