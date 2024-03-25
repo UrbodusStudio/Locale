@@ -21,9 +21,17 @@
       "citem.lobby.selector": "&r&aLobby Selector",
       "mystery.crate": "&d&lMystery Box",
       "your.mystery.crates": "&f{%crates} availables!",
-      "open.mystery.crate.title": "Do you want to buy a mystery box?",
+      "open.mystery.crate.title": "Do you want to open a mystery box?",
       "open.mystery.crate.description": "You could get exclusive collectibles or coins",
-      "no.mystery.crates": "&cYou don't have mystery boxes!"
+      "no.tokens": "&cYou don't have enough tokens!",
+      "mystery.crate.already.opening": "&cThis box is already being opened",
+      "opening.mystery.crate": "&bOpening mystery box...",
+      "earned.tokens": "&bYou earned &d{%tokens} &band tokens for duplicate collectible!",
+      "you.crafted.mystery.crate": "&aYou made a mystery box!",
+      "craft.mystery.crate.title": "Do you want to craft a box?",
+      "craft.mystery.crate.description": "&2Crafting a mystery box costs &b{%tokens} &2tokens",
+      "click.to.craft": "&2&lCLCIK TO CRAFT",
+      "click.to.open": "&6&lCLCIK TO OPEN"
     }
   }
   
