@@ -1,0 +1,16 @@
+{
+    "contributors": ["Josscoder", "Boowsteer"],
+    "translations": {
+        "skywars.voting.end": "\n&e------------------------------\n&l&aResultados das votações\n \n&r&c- &bModificador: &6{%modifier}\n&c- &bTempo: &6{%time}\n&c- &bProjéteis: &6{%projectiles}\n&e------------------------------\n",
+        "skywars.game.description": "&eSkyWars é um jogo multijogador \n&eonde os jogadores enfrentam uns aos outros \n&eem ilhas flutuantes. O objetivo é ser\n &eo último jogador vivo",
+        "skywars.game.summary": "&a&lResumo do jogo&r",
+        "skywars.kills": "Assassinatos",
+        "skywars.time.played": "Tempo jogado",
+        "skywars.assists": "Asistências",
+        "skywars.arrows.shot": "Flechas disparadas",
+        "skywars.arrows.hit": "Flechas acertadas",
+        "skywars.accuracy": "Precisão",
+        "skywars.rewards.summary": "&a&lResumo de recompensas&r"
+      }
+    }
+    
