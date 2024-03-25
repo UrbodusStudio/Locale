@@ -23,8 +23,16 @@
     "citem.lobby.selector": "&r&aSelector de Vestibulo",
     "mystery.crate": "&d&lCaja Misteriosa",
     "your.mystery.crates": "&f¡{%crates} disponibles!",
-    "open.mystery.crate.title": "¿Quieres comprar una caja misteriosa?",
+    "open.mystery.crate.title": "¿Quieres abrir una caja?",
     "open.mystery.crate.description": "Podrías conseguir coleccionables exclusivos o monedas",
-    "no.mystery.crates": "&c¡No tienes cajas misteriosas!"
+    "no.tokens": "&c¡No tienes suficientes fichas!",
+    "mystery.crate.already.opening": "&cEsta caja ya está siendo abierta",
+    "opening.mystery.crate": "&bAbriendo caja misteriosa...",
+    "earned.tokens": "&b¡Ganaste &d{%tokens} &bfichas por coleccionable duplicado!",
+    "you.crafted.mystery.crate": "&a¡Crafteaste una caja misteriosa!",
+    "craft.mystery.crate.title": "¿Quieres craftear una caja?",
+    "craft.mystery.crate.description": "&2Crear una caja misteriosa cuesta &b{%tokens} &2tokens",
+    "click.to.craft": "&2&lCLIC PARA CRAFTEAR",
+    "click.to.open": "&6&lCLIC PARA ABRIR"
   }
 }

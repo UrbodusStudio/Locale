@@ -1,5 +1,8 @@
 {
-    "contributors": ["Josscoder", "Boowsteer"],
+    "contributors": [
+        "Josscoder",
+        "Boowsteer"
+    ],
     "translations": {
         "welcome.message": " &aBem-vindo {%playerName} &r&a!\n\n &9urbodus.com/discord\n \n &6urbodus.com/store\n \n &r@UrbodusOfficial\n\n&7Use o ‘Navegador’ ou NPCs para entrar em um jogo.",
         "rank": "§sRank: {%rank}",
@@ -21,8 +24,15 @@
         "citem.lobby.selector": "&r&aSeletor de lobby",
         "mystery.crate": "&d&lCaixa Misteriosa",
         "your.mystery.crates": "&f{%crates} disponível!",
-        "open.mystery.crate.title": "Você quer comprar uma caixa misteriosa?",
+        "open.mystery.crate.title": "Você quer abrir uma caixa misteriosa?",
         "open.mystery.crate.description": "Você pode obter itens colecionáveis ​​ou moedas exclusivas",
-        "no.mystery.crates": "&cVocê não tem caixas misteriosas!"
-      }
+        "no.tokens": "&cVocê não tem fichas suficientes!",
+        "mystery.crate.already.opening": "&cEsta caixa já está sendo aberta",
+        "opening.mystery.crate": "&bAbrindo caixa misteriosa...",
+        "you.crafted.mystery.crate": "&aCrie uma caixa misteriosa!",
+        "craft.mystery.crate.title": "Você quer criar uma caixa?",
+        "craft.mystery.crate.description": "&2Criar uma caixa misteriosa custa &b{%tokens} &2tokens",
+        "click.to.craft": "&2&lCLIQUE PARA CRIAR",
+        "click.to.open": "&6&lCLIQUE PARA ABRIR"
     }
+}
