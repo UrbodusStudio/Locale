@@ -18,6 +18,8 @@
     "random.kill.message.1": "&d{%playerName} &dis dominating the game with &f&l{%kills}&r&d kills!",
     "random.kill.message.2": "&c{%playerName} &cis known as Mr. Massacre for their &6{%kills}&c kills",
     "random.kill.message.3": "&aWow, {%playerName}&a deserves an award, their &e{%kills}&a kills aren't for free...",
-    "random.kill.message.4": "&6Hey {%playerName}, I dare you to get &f{%kills}&6 more kills!"
+    "random.kill.message.4": "&6Hey {%playerName}, I dare you to get &f{%kills}&6 more kills!",
+    "leader.changed": "&l&6The game leader is now &r{%playerName}&l&6!",
+    "game.ends.in": "&cThe game will end in &c{%endTime}!"
   }
 }

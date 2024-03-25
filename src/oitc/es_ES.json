@@ -20,6 +20,8 @@
     "random.kill.message.1": "&d¡{%playerName} &des el rey de este juego con &f&l{%kills}&r&d asesinatos!",
     "random.kill.message.2": "&cA {%playerName} &cle dicen Mr. Masacres por sus &6{%kills}&c asesinatos",
     "random.kill.message.3": "&aWow, a {%playerName}&a tendrian que darle un premio, sus &e{%kills}&a asesinatos no son gratis...",
-    "random.kill.message.4": "&6¡Oye {%playerName} &6te reto a que hagas otros &f{%kills}&6 asesinatos más!"
+    "random.kill.message.4": "&6¡Oye {%playerName} &6te reto a que hagas otros &f{%kills}&6 asesinatos más!",
+    "leader.changed": "&l&6¡El lider del juego ahora es &r{%playerName}&l&6!",
+    "game.ends.in": "&c¡El juego terminará en &c{%endTime}!"
   }
 }
