@@ -1,0 +1,23 @@
+{
+    "contributors": ["Josscoder", "Boowsteer"],
+    "translations": {
+        "oitc.game.description": "&eOne In The Chamber é um modo de combate rápido e intenso,\n &ende precisão e estratégia são fundamentais.\n &ePrepare-se para atirar e desviar!\n &eneste emocionante mini-jogo!",
+        "oitc.game.summary": "&a&lResumo do jogo&r",
+        "oitc.kills": "Assassinatos",
+        "oitc.deaths": "Mortes",
+        "oitc.time.played": "Tempo jogado",
+        "oitc.arrows.shot": "Flechas disparadas",
+        "oitc.arrows.hit": "Flechas acertadas",
+        "oitc.accuracy": "Precisão",
+        "oitc.rewards.summary": "&a&lResumo de recompensas&r",
+        "releasing.players.in": "&c§cLiberando em {%startTime}",
+        "you.revived": "&6&lREVIVIDO!",
+        "player.died.oitc": " {%playerName} &6morreu",
+        "player.killed.by.oitc": " {%killed} &6foi assassinado por {%killer}",
+        "increase.kills": "&l&b+1 ASSASSINATO",
+        "random.kill.message.1": "&d{%playerName} &dé o rei deste jogo com &f&l{%kills}&r&d assassinatos!",
+        "random.kill.message.2": "&cA {%playerName} &cé chamado de Sr. Massacres por seus &6{%kills}&c assassinatos",
+        "random.kill.message.3": "&aWow, a {%playerName}&a deveriam dar-lhe um prêmio, seus &e{%kills}&a assassinatos não são gratuitos...",
+        "random.kill.message.4": "&6Hey {%playerName}, eu te desafio a fazer mais &f{%kills}&6 assassinatos!"
+      }
+    }
