@@ -1,13 +1,23 @@
 {
-  "contributors": ["Josscoder", "Bareww"],
+  "contributors": ["Josscoder", "Bareww", "Saworo"],
   "translations": {
     "oitc.game.description": "&eOne In The Chamber is an intense combat mode, where precision and strategy are key. Prepare to shoot and dodge in this exciting mini-game!",
     "oitc.game.summary": "&a&lGame summary&r",
     "oitc.kills": "Kills",
+    "oitc.deaths": "Deaths",
     "oitc.time.played": "Time played",
     "oitc.arrows.shot": "Arrows shot",
     "oitc.arrows.hit": "Arrows hit",
     "oitc.accuracy": "Accuracy",
-    "oitc.rewards.summary": "&a&lRewards summary&r"
+    "oitc.rewards.summary": "&a&lRewards summary&r",
+    "releasing.players.in": "&c§cReleasing in {%startTime}",
+    "you.revived": "&6&lYou've been revived!",
+    "player.died.oitc": " {%playerName} &6died",
+    "player.killed.by.oitc": " {%killed} &6was killed by {%killer}",
+    "increase.kills": "&l&b+1 KILL",
+    "random.kill.message.1": "&d{%playerName} &dis dominating the game with &f&l{%kills}&r&d kills!",
+    "random.kill.message.2": "&c{%playerName} &cis known as Mr. Massacre for their &6{%kills}&c kills",
+    "random.kill.message.3": "&aWow, {%playerName}&a deserves an award, their &e{%kills}&a kills aren't for free...",
+    "random.kill.message.4": "&6Hey {%playerName}, I dare you to get &f{%kills}&6 more kills!"
   }
 }
