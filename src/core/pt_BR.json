@@ -121,7 +121,12 @@
       "lobby.selector.description": "",
       "already.in.server": "&cVocê já está aqui",
       "world.protect.level.doest.not.exist": "&cEsse tipo de proteção de mundo não existe",
-      "set.world.protect.to.level": "&aFoi estabelecida a proteção &6{%worldProtectType}&a para o mundo &6{%worldName}"
+      "set.world.protect.to.level": "&aFoi estabelecida a proteção &6{%worldProtectType}&a para o mundo &6{%worldName}",
+      "report.a.player": "Denunciar um Jogador",
+      "select.a.player": "Selecione um jogador",
+      "write.a.reason": "Escreva um motivo",
+      "invalid.reason": "&cMotivo do relatório inválido",
+      "report.sent": "&aO relatório contra &c{%reportedPlayer} &apelo motivo &c'{%reason}'. &aFoi enviado com sucesso com o id &3{%uuid}"
     }
   }
   

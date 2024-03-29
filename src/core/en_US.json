@@ -121,6 +121,11 @@
     "lobby.selector.description": "",
     "already.in.server": "&cYou are already here",
     "world.protect.level.doest.not.exist": "&cThis type of world protection does not exist.",
-    "set.world.protect.to.level": "&aThe &6{%worldProtectType}&a protection has been established for the &6{%worldName} world."
+    "set.world.protect.to.level": "&aThe &6{%worldProtectType}&a protection has been established for the &6{%worldName} world.",
+    "report.a.player": "Report a Player",
+    "select.a.player": "Select a player",
+    "write.a.reason": "Write a reason",
+    "invalid.reason": "&cInvalid report reason",
+    "report.sent": "&aThe report against &c{%reportedPlayer} &afor the reason &c'{%reason}'. &aIt has been successfully sent with the id &3{%uuid}"
   }
 }
