@@ -127,8 +127,9 @@
       "write.a.reason": "Escreva um motivo",
       "invalid.reason": "&cMotivo do relatório inválido",
       "report.sent": "&aSeu relatório foi enviado com sucesso",
-      "new.report": "&cNOVO RELATÓRIO> &aContra &c{%reportedName} &apelo motivo &3'{%reason}' &acom o ID: &6{%uuid}",
-      "report.removed": "&aO relatório &6{%uuid} &foi removido!"
+      "new.report": "&cREPORT> &aNovo relatório contra &c{%reportedName} &apelo motivo &3'{%reason}' &acom o ID: &6{%uuid}",
+      "report.removed": "&aO relatório &6{%uuid} &afoi removido!",
+      "cannot.report.yourself": "&cVocê não pode se denunciar"
     }
   }
   

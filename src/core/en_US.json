@@ -127,7 +127,8 @@
     "write.a.reason": "Write a reason",
     "invalid.reason": "&cInvalid report reason",
     "report.sent": "&aYour report has been sent successfully",
-    "new.report": "&cNEW REPORT> &aAgainst &c{%reportedName} &afor the reason &3'{%reason}' &awith the ID: &6{%uuid}",
-    "report.removed": "&aThe report &6{%uuid} &awas removed!"
+    "new.report": "&cREPORT> &aNew report against &c{%reportedName} &afor the reason &3'{%reason}' &awith the ID: &6{%uuid}",
+    "report.removed": "&aThe report &6{%uuid} &awas removed!",
+    "cannot.report.yourself": "&cYou can't report yourself"
   }
 }
