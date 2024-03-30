@@ -126,6 +126,8 @@
     "select.a.player": "Selecciona un jugador",
     "write.a.reason": "Escribe una razon",
     "invalid.reason": "&cMotivo del reporte no válido",
-    "report.sent": "&aEl reporte contra &c{%reportedPlayer} &apor el motivo &c'{%reason}'. &aSe ha enviado exitosamente con el ID &3{%uuid}"
+    "report.sent": "&aSu reporte ha sido enviado exitosamente",
+    "new.report": "&cNUEVO REPORTE> &aEn contra de &c{%reportedName} &apor el motivo &3'{%reason}' &acon el ID: &6{%uuid}",
+    "report.removed": "&a¡El reporte &6{%uuid} &fue eliminado!"
   }
 }

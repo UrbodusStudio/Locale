@@ -126,6 +126,8 @@
     "select.a.player": "Select a player",
     "write.a.reason": "Write a reason",
     "invalid.reason": "&cInvalid report reason",
-    "report.sent": "&aThe report against &c{%reportedPlayer} &afor the reason &c'{%reason}'. &aIt has been successfully sent with the id &3{%uuid}"
+    "report.sent": "&aYour report has been sent successfully",
+    "new.report": "&cNEW REPORT> &aAgainst &c{%reportedName} &afor the reason &3'{%reason}' &awith the ID: &6{%uuid}",
+    "report.removed": "&aThe report &6{%uuid} &awas removed!"
   }
 }
