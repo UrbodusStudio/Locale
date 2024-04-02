@@ -2,7 +2,7 @@
   "contributors": ["Josscoder", "Bareww"],
   "translations": {
     "playing.in": "&l&aYOU ARE PLAYING ON {%color}URBODUS",
-    "announce.1": " &aBe sure to follow us on &fX &ato receive news and giveaways! &d&o@UrbodusOfficial",
+    "announce.1": " &aBe sure to follow us on &fX &ato receive news and giveaways! &d&o@Urbodus",
     "announce.2": " &aLooking for our Discord server? You are at &9&ohttps://discord.gg/V4EXqf24JM",
     "announce.3": " &aDo you see a player breaking our rules? Report them using &6/report &or create a ticket at &6#create-a-ticket &aon our Discord server and provide your evidence, &9&ohttps://discord.gg/V4EXqf24JM",
     "announce.4": " &aTalk to our community and get the latest network information on our Discord server. Join today on &9&ohttps://discord.gg/V4EXqf24JM",
@@ -34,7 +34,7 @@
     "navigator.description": "Where you want to go?",
     "rules.title": "Rules",
     "rules.description": "&e&lFollow the rules for not be sanctioned\n \n&c&lIS PROHIBITED:\n \n&r&b1)&r The use of hacks or third-party applications for personal gain.\n&c&b2)&r Purposely alter your ping to gain advantages.\n&b3)&r Abuse of bugs\n&r&b4)&r Racism, machismo, homophobia and more.\n&r&b5)&r Impersonating someone's identity.\n&r&b6) &r Insulting, annoying someone or misbehaving.",
-    "links": "&aLinks of the server:\n\n &9urbodus.com/discord\n \n &6urbodus.com/store\n \n &r@UrbodusOfficial\n \n &durbodus.com",
+    "links": "&aLinks of the server:\n\n &9discord.gg/urbodus\n \n &6urbodus.com/store\n \n &r@Urbodus\n \n &durbodus.com",
     "friends": "Friends",
     "party": "Party",
     "profile.title": "{%playerName}´s Profile",
