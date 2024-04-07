@@ -33,6 +33,7 @@
     "craft.mystery.crate.title": "¿Quieres craftear una caja?",
     "craft.mystery.crate.description": "&2Crear una caja misteriosa cuesta &b{%tokens} &2fichas",
     "click.to.craft": "&2&lCLIC PARA CRAFTEAR",
-    "click.to.open": "&6&lCLIC PARA ABRIR"
+    "click.to.open": "&6&lCLIC PARA ABRIR",
+    "jump.to.play": "&e&l¡SALTA PARA JUGAR!"
   }
 }

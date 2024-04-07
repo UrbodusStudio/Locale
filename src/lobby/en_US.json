@@ -31,7 +31,8 @@
       "craft.mystery.crate.title": "Do you want to craft a box?",
       "craft.mystery.crate.description": "&2Crafting a mystery box costs &b{%tokens} &2tokens",
       "click.to.craft": "&2&lCLCIK TO CRAFT",
-      "click.to.open": "&6&lCLCIK TO OPEN"
+      "click.to.open": "&6&lCLCIK TO OPEN",
+      "jump.to.play": "&e&lJUMP TO PLAY!"
     }
   }
   
