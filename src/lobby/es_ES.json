@@ -34,6 +34,9 @@
     "craft.mystery.crate.description": "&2Crear una caja misteriosa cuesta &b{%tokens} &2fichas",
     "click.to.craft": "&2&lCLIC PARA CRAFTEAR",
     "click.to.open": "&6&lCLIC PARA ABRIR",
-    "jump.to.play": "&e&l¡SALTA PARA JUGAR!"
+    "jump.to.play": "&e&l¡SALTA PARA JUGAR!",
+    "ffa.coliseum.join": "&aBienvenido al coliseo ffa. ¡Masacra a todos los jugadores y demuestra quién es el mejor! Usa &e/spawn &apara ir al lobby",
+    "cant.use.cheats.in.coliseum": "&cNo puedes usar trampas en el coliseo",
+    "player.killed.by": " {%killed} &6fue asesinado por {%killer}"
   }
 }
