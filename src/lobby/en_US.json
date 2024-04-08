@@ -35,7 +35,8 @@
       "jump.to.play": "&e&lJUMP TO PLAY!",
       "ffa.coliseum.join": "&aWelcome to the coliseum ffa. Massacre all the players and show who is the best! Use &e/spawn &ato go to the lobby",
       "cant.use.cheats.in.coliseum": "&cYou can't use cheats in the coliseum",
-      "player.killed.by": " {%killed} &6was killed by {%killer}"
+      "player.killed.by": " {%killed} &6was killed by {%killer}",
+      "player.died": " {%playerName} &6died"
     }
   }
   
