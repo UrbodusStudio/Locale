@@ -1,0 +1,13 @@
+{
+  "contributors": ["Josscoder"],
+  "translations": {
+    "uhc.game.description": "&eEn UHC enfrentaras peligrosas batallas por la supervivencia\n&easí que, prepara tus recursos y crea estrategias para ganar.\n&e¡Buena suerte en esta épica batalla valiente aventurero!",
+    "uhc.game.summary": "&a&lGame summary&r",
+    "uhc.kills": "Kills",
+    "uhc.time.played": "Time played",
+    "uhc.arrows.shot": "Arrows shot",
+    "uhc.arrows.hit": "Arrows hit",
+    "uhc.accuracy": "Accuracy",
+    "uhc.rewards.summary": "&a&lRewards summary&r"
+  }
+}
