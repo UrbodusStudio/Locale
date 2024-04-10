@@ -31,7 +31,12 @@
       "craft.mystery.crate.title": "Do you want to craft a box?",
       "craft.mystery.crate.description": "&2Crafting a mystery box costs &b{%tokens} &2tokens",
       "click.to.craft": "&2&lCLCIK TO CRAFT",
-      "click.to.open": "&6&lCLCIK TO OPEN"
+      "click.to.open": "&6&lCLCIK TO OPEN",
+      "jump.to.play": "&e&lJUMP TO PLAY!",
+      "ffa.coliseum.join": "&aWelcome to the coliseum ffa. Massacre all the players and show who is the best! Use &e/spawn &ato go to the lobby",
+      "cant.use.cheats.in.coliseum": "&cYou can't use cheats in the coliseum",
+      "player.killed.by": " {%killed} &6was killed by {%killer}",
+      "player.died": " {%playerName} &6died"
     }
   }
   
