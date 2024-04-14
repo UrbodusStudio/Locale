@@ -27,7 +27,7 @@
     "team.is.not.allowed": "&c&lA equipe não é permitida em {%gameName}",
     "kills": "§sAssassinatos:",
     "assists": "§sAssistências: &a{%assists}",
-    "deaths": "§sMortes: &a{%deaths}",
+    "deaths": "§sMortes:",
     "citem.play.again": "&r&aJogar de novamente",
     "map.by.subtitle": "&ePor {%author}",
     "empty": "&cVazio!",
