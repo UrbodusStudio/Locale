@@ -1,7 +1,7 @@
 {
   "contributors": ["Josscoder", "Bareww"],
   "translations": {
-    "skywars.voting.end": "\n&e------------------------------\n&l&aVoting results\n \n&r&c- &bModifier: &6{%modifier}\n&c- &bTime: &6{%time}\n&c- &bProjectiles: &6{%projectiles}\n&e------------------------------\n",
+    "skywars.voting.end": "\n&e------------------------------\n&l&aVoting results\n \n&r&c- &bModifier: &6{%modifier}\n&c- &bTime: &6{%time}\n&c- &bProjectiles: &6{%projectiles}\n&c- &bHealth: &6{%health}\n&e------------------------------\n",
     "skywars.game.description": "&eSkyWars is a multiplayer game \n&ein which players play against each \n&eother on floating islands. The goal is to be\n &ethe last player alive",
     "skywars.game.summary": "&a&lGame summary&r",
     "skywars.kills": "Kills",

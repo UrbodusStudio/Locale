@@ -1,7 +1,7 @@
 {
     "contributors": ["Josscoder", "Boowsteer"],
     "translations": {
-        "skywars.voting.end": "\n&e------------------------------\n&l&aResultados das votações\n \n&r&c- &bModificador: &6{%modifier}\n&c- &bTempo: &6{%time}\n&c- &bProjéteis: &6{%projectiles}\n&e------------------------------\n",
+        "skywars.voting.end": "\n&e------------------------------\n&l&aResultados das votações\n \n&r&c- &bModificador: &6{%modifier}\n&c- &bTempo: &6{%time}\n&c- &bProjéteis: &6{%projectiles}\n&c- &bVida: &6{%health}\n&e------------------------------\n",
         "skywars.game.description": "&eSkyWars é um jogo multijogador \n&eonde os jogadores enfrentam uns aos outros \n&eem ilhas flutuantes. O objetivo é ser\n &eo último jogador vivo",
         "skywars.game.summary": "&a&lResumo do jogo&r",
         "skywars.kills": "Assassinatos",

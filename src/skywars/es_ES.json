@@ -3,7 +3,7 @@
     "Josscoder"
   ],
   "translations": {
-    "skywars.voting.end": "\n&e------------------------------\n&l&aResultados de las votaciones\n \n&r&c- &bModificador: &6{%modifier}\n&c- &bTiempo: &6{%time}\n&c- &bProyectiles: &6{%projectiles}\n&e------------------------------\n",
+    "skywars.voting.end": "\n&e------------------------------\n&l&aResultados de las votaciones\n \n&r&c- &bModificador: &6{%modifier}\n&c- &bTiempo: &6{%time}\n&c- &bProyectiles: &6{%projectiles}\n&c- &bVida: &6{%health}\n&e------------------------------\n",
     "skywars.game.description": "&eSkyWars es un juego multijugador \n&een el que los jugadores se enfrentan entre sí \n&een islas flotantes. El objetivo es ser\n &eel último jugador vivo",
     "skywars.game.summary": "&a&lResumen del juego&r",
     "skywars.kills": "Asesinatos",
