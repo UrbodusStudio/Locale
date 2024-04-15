@@ -22,6 +22,7 @@
     "random.kill.message.3": "&aWow, a {%playerName}&a tendrian que darle un premio, sus &e{%kills}&a asesinatos no son gratis...",
     "random.kill.message.4": "&6¡Oye {%playerName} &6te reto a que hagas otros &f{%kills}&6 asesinatos más!",
     "leader.changed": "&l&6¡El lider del juego ahora es &r{%playerName}&l&6!",
-    "game.ends.in": "&cEl juego terminará en &c{%endTime}"
+    "game.ends.in": "&cEl juego terminará en &c{%endTime}",
+    "ending.in": "§sTerminando en:"
   }
 }
