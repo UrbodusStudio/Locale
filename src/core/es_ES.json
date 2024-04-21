@@ -89,7 +89,7 @@
     "lobby.settings": "&l&bAJUSTES DEL VESTÍBULO:",
     "chat.settings": "&l&bCONFIGURACIONES DE CHAT:",
     "you.are.now.spectator": "&6Ahora eres espectador",
-    "citem.return.to.lobby": "&r&cRegresar al vestíbulo",
+    "citem.leave": "&r&cSalir",
     "game.does.not.exits": "&cEse juego no existe.",
     "citem.radar": "&r&2&lRadar",
     "collectibles.title": "Coleccionables",

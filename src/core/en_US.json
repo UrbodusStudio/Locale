@@ -89,7 +89,7 @@
     "lobby.settings": "&l&bLOBBY SETTINGS:",
     "chat.settings": "&l&bCHAT SETTINGS",
     "you.are.now.spectator": "&6You are now in spectator",
-    "citem.return.to.lobby": "&r&cReturn to Lobby",
+    "citem.leave": "&r&cLeave",
     "game.does.not.exits": "&cThe game not exist.",
     "citem.tracking.compass": "&r&2&lTracking Compass",
     "collectibles.title": "Collectibles",
