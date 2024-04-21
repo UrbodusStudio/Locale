@@ -12,7 +12,6 @@
     "experience": "\uE101 §sXP: &a{%experience}",
     "main.hologram": " &l§6Urbodus&r \n \n&aBienvenido de nuevo, {%playerName}\n \n&a¡Hay &b{%onlinePlayers}&a jugadores en linea!\n \n&7Usa el 'Navegador' o los NPC para entrar a un juego\n \n \n&6play.urbodus.com",
     "ranks.hologram": " &a¿Buscas &a u otros rangos? \n \n&aCompre rangos en &durbodus.com/store\n \n&a¿Buscar rangos de creador de contenido?\n&aConsulta en el discord &9discord.gg/urbodus",
-    "click.to.play": "&a&lCLIC PARA JUGAR",
     "citem.collectibles": "&r&aColeccionables",
     "citem.social": "&r&aSocial",
     "citem.egg.launcher": "&r&6Lanzador de huevos",

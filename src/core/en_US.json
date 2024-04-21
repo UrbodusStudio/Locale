@@ -129,6 +129,7 @@
     "report.sent": "&aYour report has been sent successfully",
     "new.report": "&cREPORT> &aNew report against &c{%reportedName} &afor the reason &3'{%reason}' &awith the ID: &6{%uuid}",
     "report.removed": "&aThe report &6{%uuid} &awas removed!",
-    "cannot.report.yourself": "&cYou can't report yourself"
+    "cannot.report.yourself": "&cYou can't report yourself",
+    "click.to.play": "&a&lCLICK TO PLAY"
   }
 }

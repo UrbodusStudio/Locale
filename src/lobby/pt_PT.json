@@ -13,7 +13,6 @@
         "experience": "\uE101 §sXP: &a{%experience}",
         "main.hologram": " &l§6Urbodus&r \n \n&aBem vindo de novo, {%playerName}\n \n&aHá &b{%onlinePlayers}&a jogadores online!\n \n&7Use o ‘Navegador’ ou NPCs para entrar em um jogo\n \n \n&6play.urbodus.com",
         "ranks.hologram": " &aVocê esta procurando por &a u outros ranks? \n \n&aCompre ranks em &durbodus.com/store\n \n&aProcurando ranks de criadores de conteúdo?\n&aEntre em nosso &9discord.gg/urbodus",
-        "click.to.play": "&a&lCLIQUE PARA JOGAR",
         "citem.collectibles": "&r&aColecionáveis",
         "citem.social": "&r&aSocial",
         "citem.egg.launcher": "&r&6lançador de ovos",

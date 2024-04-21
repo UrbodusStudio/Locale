@@ -129,7 +129,8 @@
       "report.sent": "&aSeu relatório foi enviado com sucesso",
       "new.report": "&cREPORT> &aNovo relatório contra &c{%reportedName} &apelo motivo &3'{%reason}' &acom o ID: &6{%uuid}",
       "report.removed": "&aO relatório &6{%uuid} &afoi removido!",
-      "cannot.report.yourself": "&cVocê não pode se denunciar"
+      "cannot.report.yourself": "&cVocê não pode se denunciar",
+      "click.to.play": "&a&lCLIQUE PARA JOGAR"
     }
   }
   
