@@ -11,15 +11,16 @@
     "oitc.accuracy": "Accuracy",
     "oitc.rewards.summary": "&a&lRewards summary&r",
     "releasing.players.in": "&c§cReleasing in {%startTime}",
-    "you.revived": "&6&lYou've been revived!",
+    "you.revived": "&6&lYOU REVIVED!",
     "player.died.oitc": " {%playerName} &6died",
     "player.killed.by.oitc": " {%killed} &6was killed by {%killer}",
     "increase.kills": "&l&b+1 KILL",
     "random.kill.message.1": "&d{%playerName} &dis dominating the game with &f&l{%kills}&r&d kills!",
     "random.kill.message.2": "&c{%playerName} &cis known as Mr. Massacre for their &6{%kills}&c kills",
     "random.kill.message.3": "&aWow, {%playerName}&a deserves an award, their &e{%kills}&a kills aren't for free...",
-    "random.kill.message.4": "&6Hey {%playerName}, I dare you to get &f{%kills}&6 more kills!",
+    "random.kill.message.4": "&6Hey {%playerName}&6, I dare you to get &f{%kills}&6 more kills!",
     "leader.changed": "&l&6The game leader is now &r{%playerName}&l&6!",
-    "game.ends.in": "&cThe game will end in &c{%endTime}"
+    "game.ends.in": "&cThe game will end in &c{%endTime}",
+    "ending.in": "§sEnding in:"
   }
 }

@@ -18,8 +18,9 @@
         "random.kill.message.1": "&d{%playerName} &dé o rei deste jogo com &f&l{%kills}&r&d assassinatos!",
         "random.kill.message.2": "&cA {%playerName} &cé chamado de Sr. Massacres por seus &6{%kills}&c assassinatos",
         "random.kill.message.3": "&aWow, a {%playerName}&a deveriam dar-lhe um prêmio, seus &e{%kills}&a assassinatos não são gratuitos...",
-        "random.kill.message.4": "&6Oi {%playerName}, eu te desafio a fazer mais &f{%kills}&6 assassinatos!",
+        "random.kill.message.4": "&6Oi {%playerName}&6, eu te desafio a fazer mais &f{%kills}&6 assassinatos!",
         "leader.changed": "&l&6O lider do jogo agora é &r{%playerName}&l&6!",
-        "game.ends.in": "&cO jogo termina em &c{%endTime}"
-      }
+        "game.ends.in": "&cO jogo termina em &c{%endTime}",
+        "ending.in": "§sTerminando em:"
     }
+}
