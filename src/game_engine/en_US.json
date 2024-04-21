@@ -75,7 +75,7 @@
     "next.refill": "§sRefill in:",
     "chests.filled": "&6Chests have been filled!",
     "invincibility.time": "&cInvincibility will wear off in {%time} seconds",
-    "play.again.title": "Play",
+    "play.title": "Play",
     "play.description": "",
     "random.match": "&2Random match",
     "citem.spectate": "&r&aSpectate",
